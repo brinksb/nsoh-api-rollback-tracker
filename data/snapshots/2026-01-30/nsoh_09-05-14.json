@@ -1,0 +1,5208 @@
+{
+  "timestamp": "2026-01-30T09:05:14.841990Z",
+  "source": "nsoh",
+  "records": [
+    {
+      "location_id": "TWL00340",
+      "status": 0,
+      "status_start": 1769165100000,
+      "latest_event_start": 1769163300000,
+      "latest_event_end": 1769165100000,
+      "last_updated": 1769763823715,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00207",
+      "status": 1,
+      "status_start": 1768885200000,
+      "latest_event_start": 1768885200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00515",
+      "status": 0,
+      "status_start": 1761944760000,
+      "latest_event_start": 1761943080000,
+      "latest_event_end": 1761944760000,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00219",
+      "status": 0,
+      "status_start": 1769558400000,
+      "latest_event_start": 1769555700000,
+      "latest_event_end": 1769558400000,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00234",
+      "status": 0,
+      "status_start": 1769563800000,
+      "latest_event_start": 1769519700000,
+      "latest_event_end": 1769563800000,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00253",
+      "status": 0,
+      "status_start": 1761945300000,
+      "latest_event_start": 1761943500000,
+      "latest_event_end": 1761945300000,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00124",
+      "status": 0,
+      "status_start": 1769549400000,
+      "latest_event_start": 1769545800000,
+      "latest_event_end": 1769549400000,
+      "last_updated": 1769763823762,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00260",
+      "status": 1,
+      "status_start": 1769512500000,
+      "latest_event_start": 1769512500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00298",
+      "status": 0,
+      "status_start": 1769580000000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769580000000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00200",
+      "status": 0,
+      "status_start": 1762373880000,
+      "latest_event_start": 1762373640000,
+      "latest_event_end": 1762373880000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00261",
+      "status": 0,
+      "status_start": 1768537800000,
+      "latest_event_start": 1768499100000,
+      "latest_event_end": 1768537800000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00026",
+      "status": 0,
+      "status_start": 1730709900000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00318",
+      "status": 0,
+      "status_start": 1769517000000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769517000000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00345",
+      "status": 0,
+      "status_start": 1752226560000,
+      "latest_event_start": 1706790840000,
+      "latest_event_end": 1706791200000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00398",
+      "status": 0,
+      "status_start": 1715094900000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00613",
+      "status": 0,
+      "status_start": 1747070280000,
+      "latest_event_start": 1747069800000,
+      "latest_event_end": 1747070280000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00315",
+      "status": 0,
+      "status_start": 1752928680000,
+      "latest_event_start": 1752927120000,
+      "latest_event_end": 1752928680000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00723",
+      "status": 0,
+      "status_start": 1767682440000,
+      "latest_event_start": 1767682200000,
+      "latest_event_end": 1767682440000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00453",
+      "status": 1,
+      "status_start": 1769759100000,
+      "latest_event_start": 1769759100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00734",
+      "status": 0,
+      "status_start": 1648771200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00474",
+      "status": 0,
+      "status_start": 1766488080000,
+      "latest_event_start": 1766487720000,
+      "latest_event_end": 1766488080000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00330",
+      "status": 0,
+      "status_start": 1704410100000,
+      "latest_event_start": 1704408300000,
+      "latest_event_end": 1704410100000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00098",
+      "status": 1,
+      "status_start": 1768459500000,
+      "latest_event_start": 1768459500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00051",
+      "status": 1,
+      "status_start": 1769676300000,
+      "latest_event_start": 1769676300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00034",
+      "status": 0,
+      "status_start": 1769609880000,
+      "latest_event_start": 1769517720000,
+      "latest_event_end": 1769609880000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00125",
+      "status": 0,
+      "status_start": 1769539500000,
+      "latest_event_start": 1769494500000,
+      "latest_event_end": 1769539500000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00042",
+      "status": 1,
+      "status_start": 1768494600000,
+      "latest_event_start": 1768494600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00625",
+      "status": 0,
+      "status_start": 1767904440000,
+      "latest_event_start": 1767895440000,
+      "latest_event_end": 1767904440000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00354",
+      "status": 0,
+      "status_start": 1769517960000,
+      "latest_event_start": 1769502240000,
+      "latest_event_end": 1769517960000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00015",
+      "status": 0,
+      "status_start": 1766403900000,
+      "latest_event_start": 1704390300000,
+      "latest_event_end": 1704393000000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00079",
+      "status": 1,
+      "status_start": 1769747400000,
+      "latest_event_start": 1769747400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00147",
+      "status": 0,
+      "status_start": 1769748300000,
+      "latest_event_start": 1769746500000,
+      "latest_event_end": 1769748300000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00599",
+      "status": 0,
+      "status_start": 1769508000000,
+      "latest_event_start": 1769492520000,
+      "latest_event_end": 1769508000000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00073",
+      "status": 0,
+      "status_start": 1766046600000,
+      "latest_event_start": 1727052300000,
+      "latest_event_end": 1727060400000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00069",
+      "status": 0,
+      "status_start": 1756463400000,
+      "latest_event_start": 1756458900000,
+      "latest_event_end": 1756463400000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00053",
+      "status": 0,
+      "status_start": 1769500800000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769500800000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00189",
+      "status": 0,
+      "status_start": 1755846900000,
+      "latest_event_start": 1700849700000,
+      "latest_event_end": 1700853300000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00236",
+      "status": 0,
+      "status_start": 1761382800000,
+      "latest_event_start": 1761380100000,
+      "latest_event_end": 1761382800000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00800",
+      "status": 0,
+      "status_start": 1743467160000,
+      "latest_event_start": 1732695600000,
+      "latest_event_end": 1732707480000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00505",
+      "status": 0,
+      "status_start": 1689111000000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00247",
+      "status": 0,
+      "status_start": 1736501400000,
+      "latest_event_start": 1695243600000,
+      "latest_event_end": 1695247200000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00216",
+      "status": 0,
+      "status_start": 1769644800000,
+      "latest_event_start": 1769498100000,
+      "latest_event_end": 1769644800000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00054",
+      "status": 0,
+      "status_start": 1769573700000,
+      "latest_event_start": 1769503500000,
+      "latest_event_end": 1769573700000,
+      "last_updated": 1769763823763,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00138",
+      "status": 0,
+      "status_start": 1732693500000,
+      "latest_event_start": 1732688100000,
+      "latest_event_end": 1732693500000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00424",
+      "status": 0,
+      "status_start": 1762091400000,
+      "latest_event_start": 1762074600000,
+      "latest_event_end": 1762091400000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00190",
+      "status": -1,
+      "status_start": 1768235400000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00350",
+      "status": 0,
+      "status_start": 1736104500000,
+      "latest_event_start": 1736102700000,
+      "latest_event_end": 1736104500000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00405",
+      "status": 0,
+      "status_start": 1763570700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00411",
+      "status": 0,
+      "status_start": 1769602500000,
+      "latest_event_start": 1769590800000,
+      "latest_event_end": 1769602500000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00738",
+      "status": 0,
+      "status_start": 1732699800000,
+      "latest_event_start": 1732687200000,
+      "latest_event_end": 1732699800000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00021",
+      "status": 0,
+      "status_start": 1762849800000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00415",
+      "status": 0,
+      "status_start": 1764763200000,
+      "latest_event_start": 1764759600000,
+      "latest_event_end": 1764763200000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00313",
+      "status": 0,
+      "status_start": 1769646600000,
+      "latest_event_start": 1769502600000,
+      "latest_event_end": 1769646600000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00679",
+      "status": 0,
+      "status_start": 1768953960000,
+      "latest_event_start": 1768952760000,
+      "latest_event_end": 1768953960000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00733",
+      "status": 0,
+      "status_start": 1769498100000,
+      "latest_event_start": 1769495400000,
+      "latest_event_end": 1769498100000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00255",
+      "status": 0,
+      "status_start": 1769524200000,
+      "latest_event_start": 1769522400000,
+      "latest_event_end": 1769524200000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00068",
+      "status": 0,
+      "status_start": 1763170200000,
+      "latest_event_start": 1763134200000,
+      "latest_event_end": 1763170200000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00198",
+      "status": 0,
+      "status_start": 1748935800000,
+      "latest_event_start": 1704394800000,
+      "latest_event_end": 1704399300000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00076",
+      "status": 0,
+      "status_start": 1732709700000,
+      "latest_event_start": 1732686300000,
+      "latest_event_end": 1732709700000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00037",
+      "status": 0,
+      "status_start": 1766092500000,
+      "latest_event_start": 1766070900000,
+      "latest_event_end": 1766092500000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00672",
+      "status": 0,
+      "status_start": 1761940080000,
+      "latest_event_start": 1761939000000,
+      "latest_event_end": 1761940080000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00430",
+      "status": 1,
+      "status_start": 1768938300000,
+      "latest_event_start": 1768938300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00758",
+      "status": 0,
+      "status_start": 1703668500000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00436",
+      "status": 0,
+      "status_start": 1718870400000,
+      "latest_event_start": 1714311900000,
+      "latest_event_end": 1714316400000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00439",
+      "status": 0,
+      "status_start": 1769555700000,
+      "latest_event_start": 1769511600000,
+      "latest_event_end": 1769555700000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00650",
+      "status": 0,
+      "status_start": 1733266560000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00222",
+      "status": 0,
+      "status_start": 1727380800000,
+      "latest_event_start": 1727369100000,
+      "latest_event_end": 1727380800000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00287",
+      "status": 0,
+      "status_start": 1757927700000,
+      "latest_event_start": 1757925900000,
+      "latest_event_end": 1757927700000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00213",
+      "status": 0,
+      "status_start": 1764682080000,
+      "latest_event_start": 1764681720000,
+      "latest_event_end": 1764682080000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00478",
+      "status": 0,
+      "status_start": 1769556600000,
+      "latest_event_start": 1769528700000,
+      "latest_event_end": 1769556600000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00119",
+      "status": 0,
+      "status_start": 1769633100000,
+      "latest_event_start": 1769630400000,
+      "latest_event_end": 1769633100000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00438",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1758027600000,
+      "latest_event_end": 1758042900000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00159",
+      "status": 0,
+      "status_start": 1769679000000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769679000000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00050",
+      "status": 0,
+      "status_start": 1769024700000,
+      "latest_event_start": 1769020200000,
+      "latest_event_end": 1769024700000,
+      "last_updated": 1769763823764,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00008",
+      "status": 0,
+      "status_start": 1648771200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00101",
+      "status": 0,
+      "status_start": 1769509320000,
+      "latest_event_start": 1769497320000,
+      "latest_event_end": 1769509320000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00527",
+      "status": 0,
+      "status_start": 1769560200000,
+      "latest_event_start": 1769554800000,
+      "latest_event_end": 1769560200000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00118",
+      "status": 0,
+      "status_start": 1769642100000,
+      "latest_event_start": 1769507100000,
+      "latest_event_end": 1769642100000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00224",
+      "status": 0,
+      "status_start": 1768212000000,
+      "latest_event_start": 1768209300000,
+      "latest_event_end": 1768212000000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00208",
+      "status": 0,
+      "status_start": 1756465200000,
+      "latest_event_start": 1756463400000,
+      "latest_event_end": 1756465200000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00167",
+      "status": 0,
+      "status_start": 1744493400000,
+      "latest_event_start": 1744488900000,
+      "latest_event_end": 1744493400000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00730",
+      "status": 0,
+      "status_start": 1769502600000,
+      "latest_event_start": 1769493600000,
+      "latest_event_end": 1769502600000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00366",
+      "status": 0,
+      "status_start": 1769723100000,
+      "latest_event_start": 1769721300000,
+      "latest_event_end": 1769723100000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00347",
+      "status": 0,
+      "status_start": 1769654700000,
+      "latest_event_start": 1769497200000,
+      "latest_event_end": 1769654700000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00137",
+      "status": 0,
+      "status_start": 1764939600000,
+      "latest_event_start": 1727262900000,
+      "latest_event_end": 1727273700000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00332",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00796",
+      "status": 0,
+      "status_start": 1768312560000,
+      "latest_event_start": 1768311960000,
+      "latest_event_end": 1768312560000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00282",
+      "status": 0,
+      "status_start": 1768312680000,
+      "latest_event_start": 1768310760000,
+      "latest_event_end": 1768312680000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00352",
+      "status": 0,
+      "status_start": 1761291000000,
+      "latest_event_start": 1727059500000,
+      "latest_event_end": 1727066700000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00546",
+      "status": 0,
+      "status_start": 1769502360000,
+      "latest_event_start": 1769496360000,
+      "latest_event_end": 1769502360000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00157",
+      "status": 0,
+      "status_start": 1741131900000,
+      "latest_event_start": 1741112100000,
+      "latest_event_end": 1741131900000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00226",
+      "status": 0,
+      "status_start": 1769516100000,
+      "latest_event_start": 1769514300000,
+      "latest_event_end": 1769516100000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00111",
+      "status": 0,
+      "status_start": 1769045400000,
+      "latest_event_start": 1769004900000,
+      "latest_event_end": 1769045400000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00152",
+      "status": 0,
+      "status_start": 1769526000000,
+      "latest_event_start": 1769510700000,
+      "latest_event_end": 1769526000000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00010",
+      "status": 1,
+      "status_start": 1768465800000,
+      "latest_event_start": 1768465800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00009",
+      "status": 0,
+      "status_start": 1761140700000,
+      "latest_event_start": 1758603600000,
+      "latest_event_end": 1758605400000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00455",
+      "status": 0,
+      "status_start": 1769547600000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769547600000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00339",
+      "status": 0,
+      "status_start": 1761940080000,
+      "latest_event_start": 1761939600000,
+      "latest_event_end": 1761940080000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00214",
+      "status": 1,
+      "status_start": 1769054400000,
+      "latest_event_start": 1769054400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00239",
+      "status": 0,
+      "status_start": 1769588100000,
+      "latest_event_start": 1769584500000,
+      "latest_event_end": 1769588100000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00475",
+      "status": 0,
+      "status_start": 1746777480000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00016",
+      "status": 0,
+      "status_start": 1769640300000,
+      "latest_event_start": 1769625900000,
+      "latest_event_end": 1769640300000,
+      "last_updated": 1769763823765,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00160",
+      "status": 0,
+      "status_start": 1769035500000,
+      "latest_event_start": 1769033700000,
+      "latest_event_end": 1769035500000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00338",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752930900000,
+      "latest_event_end": 1752983100000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00361",
+      "status": 1,
+      "status_start": 1768977900000,
+      "latest_event_start": 1768977900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00726",
+      "status": 1,
+      "status_start": 1768797000000,
+      "latest_event_start": 1768797000000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00387",
+      "status": 0,
+      "status_start": 1769129100000,
+      "latest_event_start": 1769104800000,
+      "latest_event_end": 1769129100000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00431",
+      "status": 0,
+      "status_start": 1735980300000,
+      "latest_event_start": 1735977600000,
+      "latest_event_end": 1735980300000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00767",
+      "status": 0,
+      "status_start": 1727054760000,
+      "latest_event_start": 1727054520000,
+      "latest_event_end": 1727054760000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00660",
+      "status": 0,
+      "status_start": 1762706640000,
+      "latest_event_start": 1762705800000,
+      "latest_event_end": 1762706640000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00221",
+      "status": 0,
+      "status_start": 1765323600000,
+      "latest_event_start": 1765323240000,
+      "latest_event_end": 1765323600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00457",
+      "status": 0,
+      "status_start": 1769726700000,
+      "latest_event_start": 1769710500000,
+      "latest_event_end": 1769726700000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00070",
+      "status": 0,
+      "status_start": 1769646600000,
+      "latest_event_start": 1769630400000,
+      "latest_event_end": 1769646600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00269",
+      "status": 0,
+      "status_start": 1769644800000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769644800000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00060",
+      "status": 0,
+      "status_start": 1769533200000,
+      "latest_event_start": 1769511600000,
+      "latest_event_end": 1769533200000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00480",
+      "status": -1,
+      "status_start": 1762977600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00108",
+      "status": 0,
+      "status_start": 1764930600000,
+      "latest_event_start": 1764853200000,
+      "latest_event_end": 1764930600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00028",
+      "status": 0,
+      "status_start": 1769644800000,
+      "latest_event_start": 1769625000000,
+      "latest_event_end": 1769644800000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00762",
+      "status": 0,
+      "status_start": 1698767760000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00377",
+      "status": 1,
+      "status_start": 1767915000000,
+      "latest_event_start": 1767915000000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00044",
+      "status": 0,
+      "status_start": 1769679000000,
+      "latest_event_start": 1769672700000,
+      "latest_event_end": 1769679000000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00297",
+      "status": 0,
+      "status_start": 1769691600000,
+      "latest_event_start": 1769518800000,
+      "latest_event_end": 1769691600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00312",
+      "status": 0,
+      "status_start": 1763028360000,
+      "latest_event_start": 1752923640000,
+      "latest_event_end": 1752924600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00410",
+      "status": 0,
+      "status_start": 1732691700000,
+      "latest_event_start": 1732688100000,
+      "latest_event_end": 1732691700000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00122",
+      "status": 1,
+      "status_start": 1769752800000,
+      "latest_event_start": 1769752800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00648",
+      "status": 1,
+      "status_start": 1769758560000,
+      "latest_event_start": 1769758560000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00187",
+      "status": 0,
+      "status_start": 1768510800000,
+      "latest_event_start": 1768498200000,
+      "latest_event_end": 1768510800000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00579",
+      "status": 0,
+      "status_start": 1699613880000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00148",
+      "status": 1,
+      "status_start": 1769756400000,
+      "latest_event_start": 1769756400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00259",
+      "status": 0,
+      "status_start": 1769648400000,
+      "latest_event_start": 1769648160000,
+      "latest_event_end": 1769648400000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00237",
+      "status": 0,
+      "status_start": 1761945960000,
+      "latest_event_start": 1761942480000,
+      "latest_event_end": 1761945960000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00005",
+      "status": 0,
+      "status_start": 1764317760000,
+      "latest_event_start": 1752924360000,
+      "latest_event_end": 1752962280000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00055",
+      "status": 1,
+      "status_start": 1769740200000,
+      "latest_event_start": 1769740200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00363",
+      "status": 0,
+      "status_start": 1769097600000,
+      "latest_event_start": 1769004000000,
+      "latest_event_end": 1769097600000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00404",
+      "status": 1,
+      "status_start": 1769758200000,
+      "latest_event_start": 1769758200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00416",
+      "status": 0,
+      "status_start": 1732492800000,
+      "latest_event_start": 1732478400000,
+      "latest_event_end": 1732492800000,
+      "last_updated": 1769763823766,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00243",
+      "status": 0,
+      "status_start": 1750253400000,
+      "latest_event_start": 1750250700000,
+      "latest_event_end": 1750253400000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00432",
+      "status": 0,
+      "status_start": 1768987800000,
+      "latest_event_start": 1768986000000,
+      "latest_event_end": 1768987800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00074",
+      "status": 0,
+      "status_start": 1769728500000,
+      "latest_event_start": 1769670900000,
+      "latest_event_end": 1769728500000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00311",
+      "status": 0,
+      "status_start": 1768492080000,
+      "latest_event_start": 1768491840000,
+      "latest_event_end": 1768492080000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00324",
+      "status": 0,
+      "status_start": 1738671240000,
+      "latest_event_start": 1738661400000,
+      "latest_event_end": 1738671240000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00014",
+      "status": 0,
+      "status_start": 1769683500000,
+      "latest_event_start": 1769681700000,
+      "latest_event_end": 1769683500000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00066",
+      "status": 0,
+      "status_start": 1752930000000,
+      "latest_event_start": 1752921900000,
+      "latest_event_end": 1752930000000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00301",
+      "status": 0,
+      "status_start": 1769563800000,
+      "latest_event_start": 1769503500000,
+      "latest_event_end": 1769563800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00472",
+      "status": 0,
+      "status_start": 1766085300000,
+      "latest_event_start": 1766069100000,
+      "latest_event_end": 1766085300000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00460",
+      "status": 0,
+      "status_start": 1761946080000,
+      "latest_event_start": 1761942240000,
+      "latest_event_end": 1761946080000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00384",
+      "status": 0,
+      "status_start": 1752927600000,
+      "latest_event_start": 1752919800000,
+      "latest_event_end": 1752927600000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00153",
+      "status": 0,
+      "status_start": 1758809760000,
+      "latest_event_start": 1736144640000,
+      "latest_event_end": 1736145840000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00566",
+      "status": 0,
+      "status_start": 1761946200000,
+      "latest_event_start": 1761942600000,
+      "latest_event_end": 1761946200000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00046",
+      "status": 0,
+      "status_start": 1768518900000,
+      "latest_event_start": 1768507200000,
+      "latest_event_end": 1768518900000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00797",
+      "status": 0,
+      "status_start": 1767749640000,
+      "latest_event_start": 1767748080000,
+      "latest_event_end": 1767749640000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00018",
+      "status": 0,
+      "status_start": 1739782800000,
+      "latest_event_start": 1739780100000,
+      "latest_event_end": 1739782800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00718",
+      "status": 0,
+      "status_start": 1768320120000,
+      "latest_event_start": 1768319640000,
+      "latest_event_end": 1768320120000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00369",
+      "status": 0,
+      "status_start": 1769640300000,
+      "latest_event_start": 1769638500000,
+      "latest_event_end": 1769640300000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00031",
+      "status": 0,
+      "status_start": 1769618700000,
+      "latest_event_start": 1769495400000,
+      "latest_event_end": 1769618700000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00790",
+      "status": 0,
+      "status_start": 1766089680000,
+      "latest_event_start": 1766078040000,
+      "latest_event_end": 1766089680000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00389",
+      "status": 1,
+      "status_start": 1768978800000,
+      "latest_event_start": 1768978800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00335",
+      "status": 0,
+      "status_start": 1735688700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00020",
+      "status": 0,
+      "status_start": 1769556600000,
+      "latest_event_start": 1769500800000,
+      "latest_event_end": 1769556600000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00264",
+      "status": 0,
+      "status_start": 1769729400000,
+      "latest_event_start": 1769692500000,
+      "latest_event_end": 1769729400000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00407",
+      "status": 0,
+      "status_start": 1763028840000,
+      "latest_event_start": 1752927240000,
+      "latest_event_end": 1752927960000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00570",
+      "status": 0,
+      "status_start": 1707498840000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00417",
+      "status": 0,
+      "status_start": 1767957720000,
+      "latest_event_start": 1761961680000,
+      "latest_event_end": 1761967680000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00374",
+      "status": 0,
+      "status_start": 1740730500000,
+      "latest_event_start": 1740725100000,
+      "latest_event_end": 1740730500000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00270",
+      "status": 0,
+      "status_start": 1766101920000,
+      "latest_event_start": 1766083200000,
+      "latest_event_end": 1766101920000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00142",
+      "status": 0,
+      "status_start": 1761943800000,
+      "latest_event_start": 1761940800000,
+      "latest_event_end": 1761943800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00449",
+      "status": 0,
+      "status_start": 1763172000000,
+      "latest_event_start": 1763127000000,
+      "latest_event_end": 1763172000000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00292",
+      "status": 0,
+      "status_start": 1768508100000,
+      "latest_event_start": 1768500000000,
+      "latest_event_end": 1768508100000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00403",
+      "status": 0,
+      "status_start": 1766107800000,
+      "latest_event_start": 1766105100000,
+      "latest_event_end": 1766107800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00176",
+      "status": 0,
+      "status_start": 1769760000000,
+      "latest_event_start": 1769741100000,
+      "latest_event_end": 1769760000000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00029",
+      "status": 0,
+      "status_start": 1764763200000,
+      "latest_event_start": 1764759600000,
+      "latest_event_end": 1764763200000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00168",
+      "status": 0,
+      "status_start": 1727065800000,
+      "latest_event_start": 1727051400000,
+      "latest_event_end": 1727065800000,
+      "last_updated": 1769763823767,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00331",
+      "status": 0,
+      "status_start": 1769565600000,
+      "latest_event_start": 1769499900000,
+      "latest_event_end": 1769565600000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00715",
+      "status": 0,
+      "status_start": 1727058600000,
+      "latest_event_start": 1727052300000,
+      "latest_event_end": 1727058600000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00097",
+      "status": 0,
+      "status_start": 1769553000000,
+      "latest_event_start": 1769544900000,
+      "latest_event_end": 1769553000000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00063",
+      "status": 0,
+      "status_start": 1769657400000,
+      "latest_event_start": 1769504400000,
+      "latest_event_end": 1769657400000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00252",
+      "status": 0,
+      "status_start": 1769614200000,
+      "latest_event_start": 1769610600000,
+      "latest_event_end": 1769614200000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00109",
+      "status": -1,
+      "status_start": 1707123600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00144",
+      "status": 0,
+      "status_start": 1729332000000,
+      "latest_event_start": 1729330200000,
+      "latest_event_end": 1729332000000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00175",
+      "status": 0,
+      "status_start": 1769067000000,
+      "latest_event_start": 1769065200000,
+      "latest_event_end": 1769067000000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00385",
+      "status": 1,
+      "status_start": 1767915900000,
+      "latest_event_start": 1767915900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00575",
+      "status": 0,
+      "status_start": 1769517120000,
+      "latest_event_start": 1769514480000,
+      "latest_event_end": 1769517120000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00113",
+      "status": 0,
+      "status_start": 1769073300000,
+      "latest_event_start": 1769042700000,
+      "latest_event_end": 1769073300000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00043",
+      "status": 0,
+      "status_start": 1769558400000,
+      "latest_event_start": 1769520600000,
+      "latest_event_end": 1769558400000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00333",
+      "status": 1,
+      "status_start": 1768942800000,
+      "latest_event_start": 1768942800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00397",
+      "status": 0,
+      "status_start": 1769737500000,
+      "latest_event_start": 1769678100000,
+      "latest_event_end": 1769737500000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00083",
+      "status": 0,
+      "status_start": 1768511700000,
+      "latest_event_start": 1768493700000,
+      "latest_event_end": 1768511700000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00002",
+      "status": 1,
+      "status_start": 1769484600000,
+      "latest_event_start": 1769484600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00782",
+      "status": 0,
+      "status_start": 1767616440000,
+      "latest_event_start": 1767615840000,
+      "latest_event_end": 1767616440000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00090",
+      "status": 0,
+      "status_start": 1769524200000,
+      "latest_event_start": 1769522400000,
+      "latest_event_end": 1769524200000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00786",
+      "status": -1,
+      "status_start": 1761808560000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00739",
+      "status": 0,
+      "status_start": 1737942000000,
+      "latest_event_start": 1737939840000,
+      "latest_event_end": 1737942000000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00184",
+      "status": 0,
+      "status_start": 1769555700000,
+      "latest_event_start": 1769553900000,
+      "latest_event_end": 1769555700000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00608",
+      "status": 0,
+      "status_start": 1761945300000,
+      "latest_event_start": 1761942600000,
+      "latest_event_end": 1761945300000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00120",
+      "status": 0,
+      "status_start": 1769556600000,
+      "latest_event_start": 1769547600000,
+      "latest_event_end": 1769556600000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00231",
+      "status": 1,
+      "status_start": 1769753700000,
+      "latest_event_start": 1769753700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00180",
+      "status": 0,
+      "status_start": 1769518800000,
+      "latest_event_start": 1769515200000,
+      "latest_event_end": 1769518800000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00100",
+      "status": 0,
+      "status_start": 1763670360000,
+      "latest_event_start": 1763670120000,
+      "latest_event_end": 1763670360000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00193",
+      "status": 0,
+      "status_start": 1712194200000,
+      "latest_event_start": 1712130300000,
+      "latest_event_end": 1712194200000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00279",
+      "status": 0,
+      "status_start": 1769156100000,
+      "latest_event_start": 1766992500000,
+      "latest_event_end": 1767002400000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00309",
+      "status": 1,
+      "status_start": 1769749800000,
+      "latest_event_start": 1769749800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00326",
+      "status": 0,
+      "status_start": 1746715500000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00355",
+      "status": 0,
+      "status_start": 1767699900000,
+      "latest_event_start": 1767691800000,
+      "latest_event_end": 1767699900000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00136",
+      "status": 0,
+      "status_start": 1769539500000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769539500000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00380",
+      "status": 0,
+      "status_start": 1769506200000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769506200000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00323",
+      "status": 0,
+      "status_start": 1769742900000,
+      "latest_event_start": 1769704200000,
+      "latest_event_end": 1769742900000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00413",
+      "status": 1,
+      "status_start": 1769760000000,
+      "latest_event_start": 1769760000000,
+      "latest_event_end": null,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00448",
+      "status": 0,
+      "status_start": 1728173700000,
+      "latest_event_start": 1728171900000,
+      "latest_event_end": 1728173700000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00545",
+      "status": 0,
+      "status_start": 1769514960000,
+      "latest_event_start": 1769514480000,
+      "latest_event_end": 1769514960000,
+      "last_updated": 1769763823768,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00454",
+      "status": 0,
+      "status_start": 1745793000000,
+      "latest_event_start": 1745741700000,
+      "latest_event_end": 1745793000000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00220",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752927300000,
+      "latest_event_end": 1752983100000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00227",
+      "status": 0,
+      "status_start": 1769569200000,
+      "latest_event_start": 1769499900000,
+      "latest_event_end": 1769569200000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00085",
+      "status": 1,
+      "status_start": 1769751900000,
+      "latest_event_start": 1769751900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00624",
+      "status": 0,
+      "status_start": 1761694200000,
+      "latest_event_start": 1761631320000,
+      "latest_event_end": 1761694200000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00258",
+      "status": 0,
+      "status_start": 1715956200000,
+      "latest_event_start": 1702292400000,
+      "latest_event_end": 1702294200000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00304",
+      "status": 0,
+      "status_start": 1769576520000,
+      "latest_event_start": 1769515680000,
+      "latest_event_end": 1769576520000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00291",
+      "status": 0,
+      "status_start": 1754896500000,
+      "latest_event_start": 1732692600000,
+      "latest_event_end": 1732697100000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00299",
+      "status": 0,
+      "status_start": 1769693400000,
+      "latest_event_start": 1769688000000,
+      "latest_event_end": 1769693400000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00058",
+      "status": 0,
+      "status_start": 1769572800000,
+      "latest_event_start": 1769565600000,
+      "latest_event_end": 1769572800000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00353",
+      "status": 0,
+      "status_start": 1727327700000,
+      "latest_event_start": 1727325900000,
+      "latest_event_end": 1727327700000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00388",
+      "status": 1,
+      "status_start": 1769497200000,
+      "latest_event_start": 1769497200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00634",
+      "status": 0,
+      "status_start": 1727428440000,
+      "latest_event_start": 1727427000000,
+      "latest_event_end": 1727428440000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00418",
+      "status": 0,
+      "status_start": 1727064000000,
+      "latest_event_start": 1727046900000,
+      "latest_event_end": 1727064000000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00427",
+      "status": 1,
+      "status_start": 1769725800000,
+      "latest_event_start": 1769725800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00245",
+      "status": 0,
+      "status_start": 1768836600000,
+      "latest_event_start": 1767604500000,
+      "latest_event_end": 1767610800000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00519",
+      "status": 0,
+      "status_start": 1727058600000,
+      "latest_event_start": 1727053200000,
+      "latest_event_end": 1727058600000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00591",
+      "status": 0,
+      "status_start": 1747071000000,
+      "latest_event_start": 1747068300000,
+      "latest_event_end": 1747071000000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00447",
+      "status": 0,
+      "status_start": 1769579100000,
+      "latest_event_start": 1769577300000,
+      "latest_event_end": 1769579100000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00013",
+      "status": 1,
+      "status_start": 1769757300000,
+      "latest_event_start": 1769757300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00268",
+      "status": 1,
+      "status_start": 1769756400000,
+      "latest_event_start": 1769756400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00533",
+      "status": 0,
+      "status_start": 1767910920000,
+      "latest_event_start": 1767896040000,
+      "latest_event_end": 1767910920000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00265",
+      "status": 0,
+      "status_start": 1769499900000,
+      "latest_event_start": 1769495400000,
+      "latest_event_end": 1769499900000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00064",
+      "status": 1,
+      "status_start": 1768932900000,
+      "latest_event_start": 1768932900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00225",
+      "status": -1,
+      "status_start": 1767376800000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00804",
+      "status": 0,
+      "status_start": 1767776880000,
+      "latest_event_start": 1767776520000,
+      "latest_event_end": 1767776880000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00729",
+      "status": 0,
+      "status_start": 1769151600000,
+      "latest_event_start": 1769149800000,
+      "latest_event_end": 1769151600000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00035",
+      "status": 0,
+      "status_start": 1769630400000,
+      "latest_event_start": 1769628600000,
+      "latest_event_end": 1769630400000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00627",
+      "status": 0,
+      "status_start": 1765285920000,
+      "latest_event_start": 1765285680000,
+      "latest_event_end": 1765285920000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00254",
+      "status": 0,
+      "status_start": 1761946200000,
+      "latest_event_start": 1761942000000,
+      "latest_event_end": 1761946200000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00732",
+      "status": 0,
+      "status_start": 1764321300000,
+      "latest_event_start": 1727054100000,
+      "latest_event_end": 1727056800000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00004",
+      "status": 0,
+      "status_start": 1769595300000,
+      "latest_event_start": 1769589000000,
+      "latest_event_end": 1769595300000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00154",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1741176900000,
+      "latest_event_end": 1741178700000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00134",
+      "status": 0,
+      "status_start": 1752924600000,
+      "latest_event_start": 1752922800000,
+      "latest_event_end": 1752924600000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00465",
+      "status": 0,
+      "status_start": 1752915600000,
+      "latest_event_start": 1752913800000,
+      "latest_event_end": 1752915600000,
+      "last_updated": 1769763823769,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00103",
+      "status": 1,
+      "status_start": 1768496400000,
+      "latest_event_start": 1768496400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00218",
+      "status": 0,
+      "status_start": 1769562000000,
+      "latest_event_start": 1769513400000,
+      "latest_event_end": 1769562000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00744",
+      "status": -1,
+      "status_start": 1769385600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00019",
+      "status": 0,
+      "status_start": 1768340760000,
+      "latest_event_start": 1768336560000,
+      "latest_event_end": 1768340760000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00317",
+      "status": 0,
+      "status_start": 1752924840000,
+      "latest_event_start": 1752923040000,
+      "latest_event_end": 1752924840000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00719",
+      "status": 0,
+      "status_start": 1769759760000,
+      "latest_event_start": 1769759520000,
+      "latest_event_end": 1769759760000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00211",
+      "status": 0,
+      "status_start": 1767915900000,
+      "latest_event_start": 1767914100000,
+      "latest_event_end": 1767915900000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00803",
+      "status": 0,
+      "status_start": 1769588160000,
+      "latest_event_start": 1769587560000,
+      "latest_event_end": 1769588160000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00695",
+      "status": 0,
+      "status_start": 1769760000000,
+      "latest_event_start": 1769757300000,
+      "latest_event_end": 1769760000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00428",
+      "status": 0,
+      "status_start": 1769643900000,
+      "latest_event_start": 1769642100000,
+      "latest_event_end": 1769643900000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00146",
+      "status": 0,
+      "status_start": 1768524300000,
+      "latest_event_start": 1768502700000,
+      "latest_event_end": 1768524300000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00791",
+      "status": 0,
+      "status_start": 1761945300000,
+      "latest_event_start": 1761943500000,
+      "latest_event_end": 1761945300000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00346",
+      "status": 0,
+      "status_start": 1757686200000,
+      "latest_event_start": 1752922800000,
+      "latest_event_end": 1752925920000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00305",
+      "status": 0,
+      "status_start": 1769562000000,
+      "latest_event_start": 1769490900000,
+      "latest_event_end": 1769562000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00048",
+      "status": 0,
+      "status_start": 1769636700000,
+      "latest_event_start": 1769626800000,
+      "latest_event_end": 1769636700000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00212",
+      "status": 1,
+      "status_start": 1769003100000,
+      "latest_event_start": 1769003100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00571",
+      "status": 0,
+      "status_start": 1767907800000,
+      "latest_event_start": 1767907440000,
+      "latest_event_end": 1767907800000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00325",
+      "status": 0,
+      "status_start": 1727023500000,
+      "latest_event_start": 1727021700000,
+      "latest_event_end": 1727023500000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00195",
+      "status": 0,
+      "status_start": 1767908700000,
+      "latest_event_start": 1767905100000,
+      "latest_event_end": 1767908700000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00194",
+      "status": 0,
+      "status_start": 1648771200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00550",
+      "status": 0,
+      "status_start": 1729329000000,
+      "latest_event_start": 1729328520000,
+      "latest_event_end": 1729329000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00540",
+      "status": 0,
+      "status_start": 1768313700000,
+      "latest_event_start": 1768311900000,
+      "latest_event_end": 1768313700000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00644",
+      "status": 0,
+      "status_start": 1769502600000,
+      "latest_event_start": 1769500920000,
+      "latest_event_end": 1769502600000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00095",
+      "status": 0,
+      "status_start": 1768494600000,
+      "latest_event_start": 1768490100000,
+      "latest_event_end": 1768494600000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00096",
+      "status": 1,
+      "status_start": 1769676300000,
+      "latest_event_start": 1769676300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00585",
+      "status": 0,
+      "status_start": 1762852560000,
+      "latest_event_start": 1760087640000,
+      "latest_event_end": 1760098320000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00810",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752952500000,
+      "latest_event_end": 1752959700000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00196",
+      "status": 1,
+      "status_start": 1769413500000,
+      "latest_event_start": 1769413500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00169",
+      "status": 0,
+      "status_start": 1769634000000,
+      "latest_event_start": 1769632200000,
+      "latest_event_end": 1769634000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00099",
+      "status": 0,
+      "status_start": 1752916500000,
+      "latest_event_start": 1752913800000,
+      "latest_event_end": 1752916500000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00486",
+      "status": 0,
+      "status_start": 1726213500000,
+      "latest_event_start": 1724123700000,
+      "latest_event_end": 1724126400000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00743",
+      "status": -1,
+      "status_start": 1769123400000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00412",
+      "status": 0,
+      "status_start": 1769534100000,
+      "latest_event_start": 1769508000000,
+      "latest_event_end": 1769534100000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00356",
+      "status": 0,
+      "status_start": 1769545800000,
+      "latest_event_start": 1769530500000,
+      "latest_event_end": 1769545800000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00378",
+      "status": 1,
+      "status_start": 1769405400000,
+      "latest_event_start": 1769405400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00240",
+      "status": 0,
+      "status_start": 1732620600000,
+      "latest_event_start": 1732476600000,
+      "latest_event_end": 1732620600000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00078",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823770,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00102",
+      "status": 1,
+      "status_start": 1768371300000,
+      "latest_event_start": 1768371300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00747",
+      "status": 0,
+      "status_start": 1761966240000,
+      "latest_event_start": 1761965880000,
+      "latest_event_end": 1761966240000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00135",
+      "status": 0,
+      "status_start": 1728789120000,
+      "latest_event_start": 1728788880000,
+      "latest_event_end": 1728789120000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00368",
+      "status": 1,
+      "status_start": 1768893300000,
+      "latest_event_start": 1768893300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00435",
+      "status": 0,
+      "status_start": 1769550300000,
+      "latest_event_start": 1769526900000,
+      "latest_event_end": 1769550300000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00266",
+      "status": 0,
+      "status_start": 1769570100000,
+      "latest_event_start": 1769544000000,
+      "latest_event_end": 1769570100000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00382",
+      "status": 0,
+      "status_start": 1757663100000,
+      "latest_event_start": 1673892000000,
+      "latest_event_end": 1673893800000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00244",
+      "status": 1,
+      "status_start": 1768495500000,
+      "latest_event_start": 1768495500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00106",
+      "status": 0,
+      "status_start": 1769604300000,
+      "latest_event_start": 1769602500000,
+      "latest_event_end": 1769604300000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00289",
+      "status": 0,
+      "status_start": 1769539500000,
+      "latest_event_start": 1769517900000,
+      "latest_event_end": 1769539500000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00290",
+      "status": 0,
+      "status_start": 1769653800000,
+      "latest_event_start": 1769508900000,
+      "latest_event_end": 1769653800000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00574",
+      "status": 0,
+      "status_start": 1752926760000,
+      "latest_event_start": 1752924000000,
+      "latest_event_end": 1752926760000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00295",
+      "status": 0,
+      "status_start": 1768555800000,
+      "latest_event_start": 1749533400000,
+      "latest_event_end": 1749539700000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00235",
+      "status": 0,
+      "status_start": 1768616100000,
+      "latest_event_start": 1768612500000,
+      "latest_event_end": 1768616100000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00337",
+      "status": 0,
+      "status_start": 1769572800000,
+      "latest_event_start": 1769516100000,
+      "latest_event_end": 1769572800000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00500",
+      "status": 0,
+      "status_start": 1761798000000,
+      "latest_event_start": 1761796920000,
+      "latest_event_end": 1761798000000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00288",
+      "status": 0,
+      "status_start": 1769035500000,
+      "latest_event_start": 1769031900000,
+      "latest_event_end": 1769035500000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00081",
+      "status": 0,
+      "status_start": 1769674500000,
+      "latest_event_start": 1769490900000,
+      "latest_event_end": 1769674500000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00071",
+      "status": 0,
+      "status_start": 1704453300000,
+      "latest_event_start": 1704431700000,
+      "latest_event_end": 1704453300000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00805",
+      "status": 0,
+      "status_start": 1769559300000,
+      "latest_event_start": 1769497200000,
+      "latest_event_end": 1769559300000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00584",
+      "status": 0,
+      "status_start": 1731513480000,
+      "latest_event_start": 1727021760000,
+      "latest_event_end": 1727024520000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00283",
+      "status": 0,
+      "status_start": 1769647500000,
+      "latest_event_start": 1769483700000,
+      "latest_event_end": 1769647500000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00238",
+      "status": 0,
+      "status_start": 1769570100000,
+      "latest_event_start": 1769502600000,
+      "latest_event_end": 1769570100000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00393",
+      "status": 0,
+      "status_start": 1769515200000,
+      "latest_event_start": 1769494500000,
+      "latest_event_end": 1769515200000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00320",
+      "status": 0,
+      "status_start": 1752926400000,
+      "latest_event_start": 1752923700000,
+      "latest_event_end": 1752926400000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00179",
+      "status": 0,
+      "status_start": 1764317700000,
+      "latest_event_start": 1756376100000,
+      "latest_event_end": 1756381500000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00274",
+      "status": 0,
+      "status_start": 1761945960000,
+      "latest_event_start": 1761942600000,
+      "latest_event_end": 1761945960000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00521",
+      "status": 0,
+      "status_start": 1768814280000,
+      "latest_event_start": 1768813920000,
+      "latest_event_end": 1768814280000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00359",
+      "status": 1,
+      "status_start": 1769755500000,
+      "latest_event_start": 1769755500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00409",
+      "status": 1,
+      "status_start": 1769759100000,
+      "latest_event_start": 1769759100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00809",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00178",
+      "status": 1,
+      "status_start": 1768277700000,
+      "latest_event_start": 1768277700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00391",
+      "status": 1,
+      "status_start": 1768522500000,
+      "latest_event_start": 1768522500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00443",
+      "status": 1,
+      "status_start": 1769490900000,
+      "latest_event_start": 1769490900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00209",
+      "status": 0,
+      "status_start": 1737619200000,
+      "latest_event_start": 1732840200000,
+      "latest_event_end": 1733114700000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00621",
+      "status": 0,
+      "status_start": 1751799840000,
+      "latest_event_start": 1751799480000,
+      "latest_event_end": 1751799840000,
+      "last_updated": 1769763823771,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00401",
+      "status": 0,
+      "status_start": 1766088000000,
+      "latest_event_start": 1766069100000,
+      "latest_event_end": 1766088000000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00092",
+      "status": 0,
+      "status_start": 1732702500000,
+      "latest_event_start": 1732691700000,
+      "latest_event_end": 1732702500000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00250",
+      "status": 0,
+      "status_start": 1727076600000,
+      "latest_event_start": 1727074800000,
+      "latest_event_end": 1727076600000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00670",
+      "status": 0,
+      "status_start": 1767906120000,
+      "latest_event_start": 1767905280000,
+      "latest_event_end": 1767906120000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00341",
+      "status": 0,
+      "status_start": 1763109600000,
+      "latest_event_start": 1759273800000,
+      "latest_event_end": 1759274160000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00267",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769495400000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00017",
+      "status": 0,
+      "status_start": 1769569200000,
+      "latest_event_start": 1769553000000,
+      "latest_event_end": 1769569200000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00275",
+      "status": 0,
+      "status_start": 1762416900000,
+      "latest_event_start": 1749128400000,
+      "latest_event_end": 1749132000000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00223",
+      "status": 1,
+      "status_start": 1769758200000,
+      "latest_event_start": 1769758200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00479",
+      "status": 0,
+      "status_start": 1766130840000,
+      "latest_event_start": 1766130600000,
+      "latest_event_end": 1766130840000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00257",
+      "status": 0,
+      "status_start": 1769730300000,
+      "latest_event_start": 1769707800000,
+      "latest_event_end": 1769730300000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00062",
+      "status": 0,
+      "status_start": 1763147700000,
+      "latest_event_start": 1763142300000,
+      "latest_event_end": 1763147700000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00766",
+      "status": 0,
+      "status_start": 1768835700000,
+      "latest_event_start": 1764576000000,
+      "latest_event_end": 1764578700000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00328",
+      "status": 0,
+      "status_start": 1769557500000,
+      "latest_event_start": 1769503500000,
+      "latest_event_end": 1769557500000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00177",
+      "status": 1,
+      "status_start": 1769742900000,
+      "latest_event_start": 1769742900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00059",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769497200000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00793",
+      "status": 0,
+      "status_start": 1761944760000,
+      "latest_event_start": 1761944400000,
+      "latest_event_end": 1761944760000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00396",
+      "status": 0,
+      "status_start": 1769497200000,
+      "latest_event_start": 1769495400000,
+      "latest_event_end": 1769497200000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00012",
+      "status": 0,
+      "status_start": 1716972300000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00596",
+      "status": 0,
+      "status_start": 1768499160000,
+      "latest_event_start": 1768496640000,
+      "latest_event_end": 1768499160000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00117",
+      "status": 1,
+      "status_start": 1768940100000,
+      "latest_event_start": 1768940100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00112",
+      "status": 0,
+      "status_start": 1746711900000,
+      "latest_event_start": 1746708300000,
+      "latest_event_end": 1746711900000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00191",
+      "status": 0,
+      "status_start": 1766067240000,
+      "latest_event_start": 1766063880000,
+      "latest_event_end": 1766067240000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00588",
+      "status": 0,
+      "status_start": 1698224160000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00230",
+      "status": -1,
+      "status_start": 1767517200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00503",
+      "status": 0,
+      "status_start": 1753779480000,
+      "latest_event_start": 1727022600000,
+      "latest_event_end": 1727023200000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00583",
+      "status": 0,
+      "status_start": 1769497320000,
+      "latest_event_start": 1769496480000,
+      "latest_event_end": 1769497320000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00024",
+      "status": 0,
+      "status_start": 1769758200000,
+      "latest_event_start": 1769726700000,
+      "latest_event_end": 1769758200000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00426",
+      "status": 0,
+      "status_start": 1763126040000,
+      "latest_event_start": 1727062200000,
+      "latest_event_end": 1727069400000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00787",
+      "status": 0,
+      "status_start": 1725759240000,
+      "latest_event_start": 1725759000000,
+      "latest_event_end": 1725759240000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00319",
+      "status": 0,
+      "status_start": 1769751120000,
+      "latest_event_start": 1769750880000,
+      "latest_event_end": 1769751120000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00232",
+      "status": 0,
+      "status_start": 1769631300000,
+      "latest_event_start": 1769510700000,
+      "latest_event_end": 1769631300000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00082",
+      "status": 0,
+      "status_start": 1769503500000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769503500000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00006",
+      "status": 1,
+      "status_start": 1769740200000,
+      "latest_event_start": 1769740200000,
+      "latest_event_end": null,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00132",
+      "status": 0,
+      "status_start": 1769532300000,
+      "latest_event_start": 1769494500000,
+      "latest_event_end": 1769532300000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00684",
+      "status": 0,
+      "status_start": 1732690800000,
+      "latest_event_start": 1732687320000,
+      "latest_event_end": 1732690800000,
+      "last_updated": 1769763823772,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00765",
+      "status": -1,
+      "status_start": 1769191200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00229",
+      "status": 0,
+      "status_start": 1769562000000,
+      "latest_event_start": 1769505300000,
+      "latest_event_end": 1769562000000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00370",
+      "status": 1,
+      "status_start": 1768899600000,
+      "latest_event_start": 1768899600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00145",
+      "status": 0,
+      "status_start": 1767912300000,
+      "latest_event_start": 1767899700000,
+      "latest_event_end": 1767912300000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00789",
+      "status": -1,
+      "status_start": 1765999200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00047",
+      "status": 0,
+      "status_start": 1769567400000,
+      "latest_event_start": 1769526900000,
+      "latest_event_end": 1769567400000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00600",
+      "status": -1,
+      "status_start": 1765457520000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00155",
+      "status": 0,
+      "status_start": 1769723100000,
+      "latest_event_start": 1769710500000,
+      "latest_event_end": 1769723100000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00151",
+      "status": 0,
+      "status_start": 1702422900000,
+      "latest_event_start": 1702420200000,
+      "latest_event_end": 1702422900000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00636",
+      "status": 0,
+      "status_start": 1714787760000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00080",
+      "status": 0,
+      "status_start": 1769039100000,
+      "latest_event_start": 1769017500000,
+      "latest_event_end": 1769039100000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00217",
+      "status": 1,
+      "status_start": 1769736600000,
+      "latest_event_start": 1769736600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00087",
+      "status": 0,
+      "status_start": 1754983440000,
+      "latest_event_start": 1727061120000,
+      "latest_event_end": 1727085600000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00612",
+      "status": 0,
+      "status_start": 1769663700000,
+      "latest_event_start": 1769517900000,
+      "latest_event_end": 1769663700000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00658",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752927300000,
+      "latest_event_end": 1752932700000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00141",
+      "status": 0,
+      "status_start": 1747639800000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00362",
+      "status": 1,
+      "status_start": 1767863700000,
+      "latest_event_start": 1767863700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00795",
+      "status": 0,
+      "status_start": 1761945000000,
+      "latest_event_start": 1761943320000,
+      "latest_event_end": 1761945000000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00381",
+      "status": 0,
+      "status_start": 1768501800000,
+      "latest_event_start": 1768487400000,
+      "latest_event_end": 1768501800000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00433",
+      "status": 0,
+      "status_start": 1769679000000,
+      "latest_event_start": 1769676300000,
+      "latest_event_end": 1769679000000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00242",
+      "status": 1,
+      "status_start": 1768958100000,
+      "latest_event_start": 1768958100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00249",
+      "status": 0,
+      "status_start": 1756887300000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00360",
+      "status": -1,
+      "status_start": 1759841520000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00590",
+      "status": 0,
+      "status_start": 1769496720000,
+      "latest_event_start": 1769496480000,
+      "latest_event_end": 1769496720000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00201",
+      "status": 1,
+      "status_start": 1768997520000,
+      "latest_event_start": 1768997520000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00188",
+      "status": 0,
+      "status_start": 1763136900000,
+      "latest_event_start": 1763128800000,
+      "latest_event_end": 1763136900000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00094",
+      "status": 0,
+      "status_start": 1769729400000,
+      "latest_event_start": 1769682600000,
+      "latest_event_end": 1769729400000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00001",
+      "status": 0,
+      "status_start": 1699434900000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00785",
+      "status": 0,
+      "status_start": 1750723200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00093",
+      "status": 1,
+      "status_start": 1769761920000,
+      "latest_event_start": 1769761920000,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00656",
+      "status": 0,
+      "status_start": 1727056920000,
+      "latest_event_start": 1727055720000,
+      "latest_event_end": 1727056920000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00619",
+      "status": 0,
+      "status_start": 1768813200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00671",
+      "status": 0,
+      "status_start": 1756914840000,
+      "latest_event_start": 1756914120000,
+      "latest_event_end": 1756914840000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00704",
+      "status": 0,
+      "status_start": 1765134480000,
+      "latest_event_start": 1765128720000,
+      "latest_event_end": 1765134480000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00116",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1747224900000,
+      "latest_event_end": 1747231200000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00007",
+      "status": 0,
+      "status_start": 1769557500000,
+      "latest_event_start": 1769554800000,
+      "latest_event_end": 1769557500000,
+      "last_updated": 1769763823773,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00484",
+      "status": 0,
+      "status_start": 1767909600000,
+      "latest_event_start": 1767907800000,
+      "latest_event_end": 1767909600000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00806",
+      "status": 0,
+      "status_start": 1768505400000,
+      "latest_event_start": 1768499100000,
+      "latest_event_end": 1768505400000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00164",
+      "status": 0,
+      "status_start": 1767902400000,
+      "latest_event_start": 1767897900000,
+      "latest_event_end": 1767902400000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00792",
+      "status": 0,
+      "status_start": 1768495500000,
+      "latest_event_start": 1768491900000,
+      "latest_event_end": 1768495500000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00272",
+      "status": -1,
+      "status_start": 1769589000000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00233",
+      "status": 0,
+      "status_start": 1769553900000,
+      "latest_event_start": 1769552100000,
+      "latest_event_end": 1769553900000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00115",
+      "status": 0,
+      "status_start": 1769651100000,
+      "latest_event_start": 1769499000000,
+      "latest_event_end": 1769651100000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00163",
+      "status": 0,
+      "status_start": 1764317700000,
+      "latest_event_start": 1752924600000,
+      "latest_event_end": 1752930000000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00662",
+      "status": 0,
+      "status_start": 1697684160000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00161",
+      "status": 0,
+      "status_start": 1704424500000,
+      "latest_event_start": 1704395700000,
+      "latest_event_end": 1704424500000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00003",
+      "status": 0,
+      "status_start": 1753712100000,
+      "latest_event_start": 1714628700000,
+      "latest_event_end": 1714637700000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00528",
+      "status": 0,
+      "status_start": 1672931700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00084",
+      "status": 0,
+      "status_start": 1727071680000,
+      "latest_event_start": 1727071320000,
+      "latest_event_end": 1727071680000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00300",
+      "status": 0,
+      "status_start": 1769635800000,
+      "latest_event_start": 1769630400000,
+      "latest_event_end": 1769635800000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00459",
+      "status": 0,
+      "status_start": 1769610600000,
+      "latest_event_start": 1769591700000,
+      "latest_event_end": 1769610600000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00344",
+      "status": -1,
+      "status_start": 1769096520000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00491",
+      "status": 0,
+      "status_start": 1759475700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00280",
+      "status": 0,
+      "status_start": 1752924960000,
+      "latest_event_start": 1752923640000,
+      "latest_event_end": 1752924960000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00065",
+      "status": 0,
+      "status_start": 1769755500000,
+      "latest_event_start": 1769745600000,
+      "latest_event_end": 1769755500000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00285",
+      "status": 0,
+      "status_start": 1742661000000,
+      "latest_event_start": 1742659200000,
+      "latest_event_end": 1742661000000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00281",
+      "status": 0,
+      "status_start": 1766077920000,
+      "latest_event_start": 1766077320000,
+      "latest_event_end": 1766077920000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00348",
+      "status": 1,
+      "status_start": 1768891500000,
+      "latest_event_start": 1768891500000,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00349",
+      "status": 0,
+      "status_start": 1769024700000,
+      "latest_event_start": 1769020200000,
+      "latest_event_end": 1769024700000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00357",
+      "status": 0,
+      "status_start": 1768527000000,
+      "latest_event_start": 1768512600000,
+      "latest_event_end": 1768527000000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00336",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00394",
+      "status": -1,
+      "status_start": 1760338800000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00468",
+      "status": 0,
+      "status_start": 1752931080000,
+      "latest_event_start": 1752921840000,
+      "latest_event_end": 1752931080000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00061",
+      "status": -1,
+      "status_start": 1768820400000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00551",
+      "status": 0,
+      "status_start": 1756216680000,
+      "latest_event_start": 1729328400000,
+      "latest_event_end": 1729329240000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00799",
+      "status": 0,
+      "status_start": 1753943280000,
+      "latest_event_start": 1753942920000,
+      "latest_event_end": 1753943280000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00293",
+      "status": 1,
+      "status_start": 1769414400000,
+      "latest_event_start": 1769414400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00294",
+      "status": 0,
+      "status_start": 1769594400000,
+      "latest_event_start": 1769591700000,
+      "latest_event_end": 1769594400000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00414",
+      "status": 1,
+      "status_start": 1769754600000,
+      "latest_event_start": 1769754600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00463",
+      "status": -1,
+      "status_start": 1769517000000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00277",
+      "status": 0,
+      "status_start": 1769537280000,
+      "latest_event_start": 1769518200000,
+      "latest_event_end": 1769537280000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00402",
+      "status": 0,
+      "status_start": 1769570100000,
+      "latest_event_start": 1769507100000,
+      "latest_event_end": 1769570100000,
+      "last_updated": 1769763823774,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00445",
+      "status": 0,
+      "status_start": 1759680900000,
+      "latest_event_start": 1759679100000,
+      "latest_event_end": 1759680900000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00420",
+      "status": 0,
+      "status_start": 1769568300000,
+      "latest_event_start": 1769548500000,
+      "latest_event_end": 1769568300000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00392",
+      "status": 1,
+      "status_start": 1768944600000,
+      "latest_event_start": 1768944600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00052",
+      "status": 0,
+      "status_start": 1769564700000,
+      "latest_event_start": 1769553000000,
+      "latest_event_end": 1769564700000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00045",
+      "status": 1,
+      "status_start": 1769756400000,
+      "latest_event_start": 1769756400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00798",
+      "status": 0,
+      "status_start": 1761946200000,
+      "latest_event_start": 1761945120000,
+      "latest_event_end": 1761946200000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00215",
+      "status": 0,
+      "status_start": 1767930300000,
+      "latest_event_start": 1767911400000,
+      "latest_event_end": 1767930300000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00364",
+      "status": 0,
+      "status_start": 1761950700000,
+      "latest_event_start": 1761944400000,
+      "latest_event_end": 1761950700000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00276",
+      "status": 0,
+      "status_start": 1732525200000,
+      "latest_event_start": 1732520700000,
+      "latest_event_end": 1732525200000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00722",
+      "status": 0,
+      "status_start": 1751828400000,
+      "latest_event_start": 1751814480000,
+      "latest_event_end": 1751828400000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00306",
+      "status": 1,
+      "status_start": 1768303800000,
+      "latest_event_start": 1768303800000,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00156",
+      "status": 0,
+      "status_start": 1752922800000,
+      "latest_event_start": 1752921000000,
+      "latest_event_end": 1752922800000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00441",
+      "status": 0,
+      "status_start": 1769605200000,
+      "latest_event_start": 1769502600000,
+      "latest_event_end": 1769605200000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00372",
+      "status": 0,
+      "status_start": 1761944640000,
+      "latest_event_start": 1761939720000,
+      "latest_event_end": 1761944640000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00327",
+      "status": 0,
+      "status_start": 1747217760000,
+      "latest_event_start": 1742922240000,
+      "latest_event_end": 1742983800000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00419",
+      "status": 1,
+      "status_start": 1769726700000,
+      "latest_event_start": 1769726700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00784",
+      "status": 0,
+      "status_start": 1761944640000,
+      "latest_event_start": 1761944160000,
+      "latest_event_end": 1761944640000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00183",
+      "status": 0,
+      "status_start": 1732491900000,
+      "latest_event_start": 1732461300000,
+      "latest_event_end": 1732491900000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00763",
+      "status": -1,
+      "status_start": 1767174840000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00788",
+      "status": -1,
+      "status_start": 1769504400000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00105",
+      "status": 0,
+      "status_start": 1769538600000,
+      "latest_event_start": 1769500800000,
+      "latest_event_end": 1769538600000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00367",
+      "status": 0,
+      "status_start": 1766098800000,
+      "latest_event_start": 1766066400000,
+      "latest_event_end": 1766098800000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00422",
+      "status": 1,
+      "status_start": 1769742000000,
+      "latest_event_start": 1769742000000,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00140",
+      "status": 0,
+      "status_start": 1761944280000,
+      "latest_event_start": 1761939120000,
+      "latest_event_end": 1761944280000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00040",
+      "status": 0,
+      "status_start": 1763525280000,
+      "latest_event_start": 1763525040000,
+      "latest_event_end": 1763525280000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00075",
+      "status": 0,
+      "status_start": 1727826300000,
+      "latest_event_start": 1727813700000,
+      "latest_event_end": 1727826300000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00506",
+      "status": 0,
+      "status_start": 1727060400000,
+      "latest_event_start": 1727058720000,
+      "latest_event_end": 1727060400000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00165",
+      "status": 0,
+      "status_start": 1709653500000,
+      "latest_event_start": 1681874100000,
+      "latest_event_end": 1681891200000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00514",
+      "status": 0,
+      "status_start": 1761177840000,
+      "latest_event_start": 1761166440000,
+      "latest_event_end": 1761177840000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00307",
+      "status": 0,
+      "status_start": 1769501700000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769501700000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00383",
+      "status": 0,
+      "status_start": 1767934800000,
+      "latest_event_start": 1767902400000,
+      "latest_event_end": 1767934800000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00128",
+      "status": 0,
+      "status_start": 1727081100000,
+      "latest_event_start": 1727055000000,
+      "latest_event_end": 1727081100000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00126",
+      "status": 0,
+      "status_start": 1768317300000,
+      "latest_event_start": 1768315500000,
+      "latest_event_end": 1768317300000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00302",
+      "status": 0,
+      "status_start": 1769525100000,
+      "latest_event_start": 1769499000000,
+      "latest_event_end": 1769525100000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00123",
+      "status": 0,
+      "status_start": 1769047200000,
+      "latest_event_start": 1769026500000,
+      "latest_event_end": 1769047200000,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00039",
+      "status": 0,
+      "status_start": 1648771200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823775,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00303",
+      "status": 1,
+      "status_start": 1768485600000,
+      "latest_event_start": 1768485600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00316",
+      "status": 0,
+      "status_start": 1767901500000,
+      "latest_event_start": 1767897900000,
+      "latest_event_end": 1767901500000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00544",
+      "status": 0,
+      "status_start": 1756908240000,
+      "latest_event_start": 1756907760000,
+      "latest_event_end": 1756908240000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00423",
+      "status": 0,
+      "status_start": 1757661600000,
+      "latest_event_start": 1727052960000,
+      "latest_event_end": 1727066640000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00343",
+      "status": 0,
+      "status_start": 1769736600000,
+      "latest_event_start": 1769508000000,
+      "latest_event_end": 1769736600000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00429",
+      "status": 0,
+      "status_start": 1769523300000,
+      "latest_event_start": 1769518800000,
+      "latest_event_end": 1769523300000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00446",
+      "status": 0,
+      "status_start": 1769754600000,
+      "latest_event_start": 1769716800000,
+      "latest_event_end": 1769754600000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00358",
+      "status": 0,
+      "status_start": 1768519800000,
+      "latest_event_start": 1768507200000,
+      "latest_event_end": 1768519800000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00027",
+      "status": 0,
+      "status_start": 1768575600000,
+      "latest_event_start": 1768503600000,
+      "latest_event_end": 1768575600000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00400",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00025",
+      "status": 0,
+      "status_start": 1769729400000,
+      "latest_event_start": 1769661900000,
+      "latest_event_end": 1769729400000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00210",
+      "status": 0,
+      "status_start": 1764317700000,
+      "latest_event_start": 1752919200000,
+      "latest_event_end": 1752948000000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00182",
+      "status": 1,
+      "status_start": 1769754600000,
+      "latest_event_start": 1769754600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00263",
+      "status": 0,
+      "status_start": 1769731200000,
+      "latest_event_start": 1769674500000,
+      "latest_event_end": 1769731200000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00262",
+      "status": 1,
+      "status_start": 1768947300000,
+      "latest_event_start": 1768947300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00666",
+      "status": 0,
+      "status_start": 1752929400000,
+      "latest_event_start": 1752922800000,
+      "latest_event_end": 1752929400000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00334",
+      "status": 0,
+      "status_start": 1767900600000,
+      "latest_event_start": 1767896100000,
+      "latest_event_end": 1767900600000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00072",
+      "status": 0,
+      "status_start": 1769540400000,
+      "latest_event_start": 1769493600000,
+      "latest_event_end": 1769540400000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00783",
+      "status": 0,
+      "status_start": 1761945120000,
+      "latest_event_start": 1761943440000,
+      "latest_event_end": 1761945120000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00408",
+      "status": 0,
+      "status_start": 1769542200000,
+      "latest_event_start": 1769540400000,
+      "latest_event_end": 1769542200000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00756",
+      "status": 0,
+      "status_start": 1769508960000,
+      "latest_event_start": 1769508720000,
+      "latest_event_end": 1769508960000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00203",
+      "status": 0,
+      "status_start": 1766080800000,
+      "latest_event_start": 1766070900000,
+      "latest_event_end": 1766080800000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00181",
+      "status": 1,
+      "status_start": 1769757300000,
+      "latest_event_start": 1769757300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00107",
+      "status": 0,
+      "status_start": 1769704200000,
+      "latest_event_start": 1769502600000,
+      "latest_event_end": 1769704200000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00086",
+      "status": 0,
+      "status_start": 1769558400000,
+      "latest_event_start": 1769494500000,
+      "latest_event_end": 1769558400000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00442",
+      "status": 0,
+      "status_start": 1740407520000,
+      "latest_event_start": 1740331080000,
+      "latest_event_end": 1740407520000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00033",
+      "status": 0,
+      "status_start": 1747992120000,
+      "latest_event_start": 1728382200000,
+      "latest_event_end": 1728382560000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00434",
+      "status": 0,
+      "status_start": 1769509800000,
+      "latest_event_start": 1769503500000,
+      "latest_event_end": 1769509800000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00437",
+      "status": 1,
+      "status_start": 1769733900000,
+      "latest_event_start": 1769733900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00271",
+      "status": 1,
+      "status_start": 1768931100000,
+      "latest_event_start": 1768931100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00425",
+      "status": 1,
+      "status_start": 1769759100000,
+      "latest_event_start": 1769759100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00202",
+      "status": 0,
+      "status_start": 1768525200000,
+      "latest_event_start": 1768518900000,
+      "latest_event_end": 1768525200000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00452",
+      "status": 1,
+      "status_start": 1769754000000,
+      "latest_event_start": 1769754000000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00088",
+      "status": 1,
+      "status_start": 1769498100000,
+      "latest_event_start": 1769498100000,
+      "latest_event_end": null,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00171",
+      "status": 0,
+      "status_start": 1765704600000,
+      "latest_event_start": 1765701900000,
+      "latest_event_end": 1765704600000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00130",
+      "status": 0,
+      "status_start": 1768500000000,
+      "latest_event_start": 1768492800000,
+      "latest_event_end": 1768500000000,
+      "last_updated": 1769763823776,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00172",
+      "status": 0,
+      "status_start": 1769697900000,
+      "latest_event_start": 1769502600000,
+      "latest_event_end": 1769697900000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00241",
+      "status": 0,
+      "status_start": 1768313880000,
+      "latest_event_start": 1768311000000,
+      "latest_event_end": 1768313880000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00557",
+      "status": 0,
+      "status_start": 1764986040000,
+      "latest_event_start": 1764984240000,
+      "latest_event_end": 1764986040000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00731",
+      "status": 0,
+      "status_start": 1727058600000,
+      "latest_event_start": 1727051400000,
+      "latest_event_end": 1727058600000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00386",
+      "status": 0,
+      "status_start": 1763154900000,
+      "latest_event_start": 1763145000000,
+      "latest_event_end": 1763154900000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00399",
+      "status": 0,
+      "status_start": 1749644100000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00379",
+      "status": 0,
+      "status_start": 1767904200000,
+      "latest_event_start": 1767897000000,
+      "latest_event_end": 1767904200000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00371",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752927300000,
+      "latest_event_end": 1752938100000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00450",
+      "status": 0,
+      "status_start": 1769561100000,
+      "latest_event_start": 1769557500000,
+      "latest_event_end": 1769561100000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00458",
+      "status": 0,
+      "status_start": 1769619600000,
+      "latest_event_start": 1769597100000,
+      "latest_event_end": 1769619600000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00701",
+      "status": 0,
+      "status_start": 1769501880000,
+      "latest_event_start": 1769501520000,
+      "latest_event_end": 1769501880000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00689",
+      "status": 0,
+      "status_start": 1769499000000,
+      "latest_event_start": 1769497200000,
+      "latest_event_end": 1769499000000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00030",
+      "status": 0,
+      "status_start": 1766087100000,
+      "latest_event_start": 1766079000000,
+      "latest_event_end": 1766087100000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00376",
+      "status": 0,
+      "status_start": 1748343120000,
+      "latest_event_start": 1748342880000,
+      "latest_event_end": 1748343120000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00284",
+      "status": 0,
+      "status_start": 1769156100000,
+      "latest_event_start": 1767682800000,
+      "latest_event_end": 1767684600000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00461",
+      "status": 0,
+      "status_start": 1769563800000,
+      "latest_event_start": 1769503500000,
+      "latest_event_end": 1769563800000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00228",
+      "status": 0,
+      "status_start": 1768554900000,
+      "latest_event_start": 1762780500000,
+      "latest_event_end": 1762782300000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00464",
+      "status": 0,
+      "status_start": 1769554800000,
+      "latest_event_start": 1769553000000,
+      "latest_event_end": 1769554800000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00199",
+      "status": 0,
+      "status_start": 1694505600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00041",
+      "status": 0,
+      "status_start": 1769747880000,
+      "latest_event_start": 1769747520000,
+      "latest_event_end": 1769747880000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00351",
+      "status": 0,
+      "status_start": 1755502200000,
+      "latest_event_start": 1680286500000,
+      "latest_event_end": 1680289200000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00197",
+      "status": 0,
+      "status_start": 1769651100000,
+      "latest_event_start": 1769649300000,
+      "latest_event_end": 1769651100000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00498",
+      "status": 0,
+      "status_start": 1757289600000,
+      "latest_event_start": 1732501800000,
+      "latest_event_end": 1732502160000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00406",
+      "status": 0,
+      "status_start": 1769523300000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769523300000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00620",
+      "status": -1,
+      "status_start": 1769101200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00067",
+      "status": 0,
+      "status_start": 1769717700000,
+      "latest_event_start": 1769713200000,
+      "latest_event_end": 1769717700000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00286",
+      "status": 0,
+      "status_start": 1767914100000,
+      "latest_event_start": 1767899700000,
+      "latest_event_end": 1767914100000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00011",
+      "status": 1,
+      "status_start": 1769429700000,
+      "latest_event_start": 1769429700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00158",
+      "status": 0,
+      "status_start": 1766092500000,
+      "latest_event_start": 1766090700000,
+      "latest_event_end": 1766092500000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00204",
+      "status": 0,
+      "status_start": 1769598900000,
+      "latest_event_start": 1769588100000,
+      "latest_event_end": 1769598900000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00150",
+      "status": -1,
+      "status_start": 1698021900000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00451",
+      "status": 1,
+      "status_start": 1769481900000,
+      "latest_event_start": 1769481900000,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00296",
+      "status": 0,
+      "status_start": 1766088000000,
+      "latest_event_start": 1766080800000,
+      "latest_event_end": 1766088000000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00121",
+      "status": 0,
+      "status_start": 1769523480000,
+      "latest_event_start": 1769500800000,
+      "latest_event_end": 1769523480000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00023",
+      "status": 0,
+      "status_start": 1751803200000,
+      "latest_event_start": 1751801400000,
+      "latest_event_end": 1751803200000,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00256",
+      "status": 1,
+      "status_start": 1769484600000,
+      "latest_event_start": 1769484600000,
+      "latest_event_end": null,
+      "last_updated": 1769763823777,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00131",
+      "status": 0,
+      "status_start": 1769498100000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769498100000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00794",
+      "status": 0,
+      "status_start": 1769497440000,
+      "latest_event_start": 1769496720000,
+      "latest_event_end": 1769497440000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00166",
+      "status": 1,
+      "status_start": 1769555700000,
+      "latest_event_start": 1769555700000,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00321",
+      "status": 0,
+      "status_start": 1769498100000,
+      "latest_event_start": 1769496300000,
+      "latest_event_end": 1769498100000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00273",
+      "status": 0,
+      "status_start": 1768520760000,
+      "latest_event_start": 1768518480000,
+      "latest_event_end": 1768520760000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00049",
+      "status": 1,
+      "status_start": 1768892400000,
+      "latest_event_start": 1768892400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00057",
+      "status": 0,
+      "status_start": 1769648400000,
+      "latest_event_start": 1769520600000,
+      "latest_event_end": 1769648400000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00638",
+      "status": 0,
+      "status_start": 1769506200000,
+      "latest_event_start": 1769498100000,
+      "latest_event_end": 1769506200000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00342",
+      "status": 0,
+      "status_start": 1753127100000,
+      "latest_event_start": 1753125300000,
+      "latest_event_end": 1753127100000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00310",
+      "status": 0,
+      "status_start": 1750320900000,
+      "latest_event_start": 1714731300000,
+      "latest_event_end": 1714734000000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00089",
+      "status": 0,
+      "status_start": 1766090700000,
+      "latest_event_start": 1766075400000,
+      "latest_event_end": 1766090700000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00192",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752926400000,
+      "latest_event_end": 1752929100000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00110",
+      "status": 0,
+      "status_start": 1769657400000,
+      "latest_event_start": 1769500800000,
+      "latest_event_end": 1769657400000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00561",
+      "status": -1,
+      "status_start": 1765407600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00549",
+      "status": 0,
+      "status_start": 1729329240000,
+      "latest_event_start": 1729328280000,
+      "latest_event_end": 1729329240000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00186",
+      "status": 1,
+      "status_start": 1769756400000,
+      "latest_event_start": 1769756400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00174",
+      "status": 0,
+      "status_start": 1769565600000,
+      "latest_event_start": 1769527800000,
+      "latest_event_end": 1769565600000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00038",
+      "status": 0,
+      "status_start": 1769643900000,
+      "latest_event_start": 1769584500000,
+      "latest_event_end": 1769643900000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00728",
+      "status": 0,
+      "status_start": 1768991400000,
+      "latest_event_start": 1768989600000,
+      "latest_event_end": 1768991400000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00489",
+      "status": 0,
+      "status_start": 1769553840000,
+      "latest_event_start": 1769550720000,
+      "latest_event_end": 1769553840000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00077",
+      "status": 0,
+      "status_start": 1769526000000,
+      "latest_event_start": 1769499900000,
+      "latest_event_end": 1769526000000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00395",
+      "status": 0,
+      "status_start": 1723625100000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00421",
+      "status": 0,
+      "status_start": 1768520280000,
+      "latest_event_start": 1768497960000,
+      "latest_event_end": 1768520280000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00365",
+      "status": 0,
+      "status_start": 1648771200000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00440",
+      "status": 0,
+      "status_start": 1760100300000,
+      "latest_event_start": 1752919200000,
+      "latest_event_end": 1752931800000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00444",
+      "status": 0,
+      "status_start": 1763976600000,
+      "latest_event_start": 1752924600000,
+      "latest_event_end": 1752926400000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00462",
+      "status": 1,
+      "status_start": 1769756400000,
+      "latest_event_start": 1769756400000,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00129",
+      "status": 0,
+      "status_start": 1746774900000,
+      "latest_event_start": 1745828100000,
+      "latest_event_end": 1745829900000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00683",
+      "status": 0,
+      "status_start": 1747380600000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00206",
+      "status": 1,
+      "status_start": 1769753760000,
+      "latest_event_start": 1769753760000,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00170",
+      "status": 0,
+      "status_start": 1693064700000,
+      "latest_event_start": 1693062900000,
+      "latest_event_end": 1693064700000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00127",
+      "status": 0,
+      "status_start": 1757096100000,
+      "latest_event_start": 1757094300000,
+      "latest_event_end": 1757096100000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00669",
+      "status": 0,
+      "status_start": 1698177480000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00149",
+      "status": 0,
+      "status_start": 1769508000000,
+      "latest_event_start": 1769498100000,
+      "latest_event_end": 1769508000000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00278",
+      "status": 0,
+      "status_start": 1767906000000,
+      "latest_event_start": 1767896100000,
+      "latest_event_end": 1767906000000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00032",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1752929100000,
+      "latest_event_end": 1752971400000,
+      "last_updated": 1769763823778,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00314",
+      "status": 0,
+      "status_start": 1769512500000,
+      "latest_event_start": 1769501700000,
+      "latest_event_end": 1769512500000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00248",
+      "status": 0,
+      "status_start": 1744119000000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00185",
+      "status": 0,
+      "status_start": 1769705100000,
+      "latest_event_start": 1756589400000,
+      "latest_event_end": 1756643400000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00162",
+      "status": 1,
+      "status_start": 1769442300000,
+      "latest_event_start": 1769442300000,
+      "latest_event_end": null,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00678",
+      "status": 0,
+      "status_start": 1768953360000,
+      "latest_event_start": 1768953120000,
+      "latest_event_end": 1768953360000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00139",
+      "status": 0,
+      "status_start": 1727059500000,
+      "latest_event_start": 1727054100000,
+      "latest_event_end": 1727059500000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00246",
+      "status": 0,
+      "status_start": 1763714700000,
+      "latest_event_start": 1763707500000,
+      "latest_event_end": 1763714700000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00000",
+      "status": 0,
+      "status_start": 1768491120000,
+      "latest_event_start": 1768490640000,
+      "latest_event_end": 1768491120000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    },
+    {
+      "location_id": "TWL00133",
+      "status": 0,
+      "status_start": 1761966900000,
+      "latest_event_start": 1761965100000,
+      "latest_event_end": 1761966900000,
+      "last_updated": 1769763823779,
+      "source": "nsoh"
+    }
+  ]
+}

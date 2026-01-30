@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSOH Rollback Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>NSOH Rollback Tracker</h1>
+        <p class="subtitle">Monitoring National Storm Overflow Hub data integrity</p>
+    </header>
+
+    <main>
+        <section id="summary" class="card">
+            <h2>Summary</h2>
+            <div class="stats-grid">
+                <div class="stat">
+                    <span class="stat-value" id="total-rollbacks">-</span>
+                    <span class="stat-label">Total Rollbacks</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="dataset-level">-</span>
+                    <span class="stat-label">Dataset-Level</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="row-level">-</span>
+                    <span class="stat-label">Row-Level</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="last-check">-</span>
+                    <span class="stat-label">Last Check</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="latest" class="card">
+            <h2>Latest Comparison</h2>
+            <div id="latest-result">
+                <p class="loading">Loading...</p>
+            </div>
+        </section>
+
+        <section id="rollbacks" class="card">
+            <h2>Rollback History</h2>
+            <div id="rollback-list">
+                <p class="loading">Loading...</p>
+            </div>
+        </section>
+
+        <section id="methodology" class="card">
+            <h2>Methodology</h2>
+            <div class="methodology-content">
+                <h3>What We're Tracking</h3>
+                <p>Thames Water publishes storm overflow discharge data to the <strong>National Storm Overflow Hub (NSOH)</strong>.
+                   This data should only move forward in time, but we've observed instances where NSOH data "rolls back" to
+                   previous readings, losing recent updates.</p>
+
+                <h3>Data Sources</h3>
+                <ul>
+                    <li><strong>Thames Water API</strong> - The source of truth for discharge status data</li>
+                    <li><strong>NSOH ArcGIS FeatureServer</strong> - The published dataset we're monitoring</li>
+                </ul>
+
+                <h3>Detection Logic</h3>
+                <p>Every 5 minutes, we:</p>
+                <ol>
+                    <li>Fetch the current state from both APIs</li>
+                    <li>Compare the current NSOH snapshot to our <em>previous</em> NSOH snapshot</li>
+                    <li>For each location, check if the timestamp (<code>StatusStart</code> or <code>LastUpdated</code>) has gone <strong>backwards</strong></li>
+                    <li>If current timestamp &lt; previous timestamp → <strong>Rollback detected</strong></li>
+                </ol>
+
+                <h3>Example Scenario</h3>
+                <div class="example-box">
+                    <p><strong>10:00</strong> - NSOH shows StatusStart: 09:55 (normal, 5 min lag from source)</p>
+                    <p><strong>10:05</strong> - NSOH shows StatusStart: 10:00 (normal, still 5 min lag)</p>
+                    <p><strong>10:10</strong> - NSOH shows StatusStart: 09:55 (ROLLBACK! went backwards)</p>
+                </div>
+
+                <h3>Rollback Types</h3>
+                <ul>
+                    <li><strong>Dataset-level</strong> (red badge) - More than 50% of locations roll back simultaneously.
+                        This suggests a cache or ingestion issue affecting the entire dataset.</li>
+                    <li><strong>Row-level</strong> (orange badge) - Individual locations roll back independently.
+                        May indicate a different type of data synchronization issue.</li>
+                </ul>
+
+                <h3>Important Notes</h3>
+                <ul>
+                    <li>NSOH naturally lags Thames Water by 3-5 minutes due to ingestion. This is <em>expected</em> and not a rollback.</li>
+                    <li>A rollback is specifically when NSOH goes <em>backwards from its own previous state</em>.</li>
+                    <li>Thames Water data is captured alongside for reference but the core detection compares NSOH to itself over time.</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data updates every 5 minutes via GitHub Actions</p>
+        <p><a href="https://github.com/YOUR_USERNAME/nsoh-api-rollback-tracker">View on GitHub</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

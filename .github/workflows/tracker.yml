@@ -1,0 +1,92 @@
+name: NSOH Rollback Tracker
+
+on:
+  schedule:
+    # Run every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run rollback tracker
+        id: tracker
+        run: |
+          set +e
+          python -m src.main
+          exit_code=$?
+          echo "exit_code=$exit_code" >> $GITHUB_OUTPUT
+          # Don't fail the workflow on rollback detection (exit code 1)
+          # Only fail on actual errors (exit code 2)
+          if [ $exit_code -eq 2 ]; then
+            exit 1
+          fi
+          exit 0
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            if [ "${{ steps.tracker.outputs.exit_code }}" = "1" ]; then
+              git commit -m "Rollback detected at $timestamp"
+            else
+              git commit -m "Data snapshot at $timestamp"
+            fi
+            git push
+          fi
+
+      - name: Create issue on repeated failures
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = 'NSOH Tracker: Workflow Failed';
+            const body = `The NSOH rollback tracker workflow failed at ${new Date().toISOString()}.
+
+            Please check the [workflow run](${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}) for details.`;
+
+            // Check for existing open issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'tracker-failure'
+            });
+
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['tracker-failure']
+              });
+            }
