@@ -6,7 +6,7 @@
     <title>NSOH Rollback Tracker</title>
     <link rel="stylesheet" href="style.css?v=2">
 </head>
-<body data-repo="ThamesWater/nsoh-api-rollback-tracker">
+<body data-repo="brinksb/nsoh-api-rollback-tracker">
     <header>
         <h1>NSOH Rollback Tracker</h1>
         <p class="subtitle">Monitoring National Storm Overflow Hub data integrity</p>
@@ -68,15 +68,15 @@
                 <ol>
                     <li>Fetch the current state from both APIs</li>
                     <li>Compare the current NSOH snapshot to our <em>previous</em> NSOH snapshot</li>
-                    <li>For each location, check if the timestamp (<code>StatusStart</code> or <code>LastUpdated</code>) has gone <strong>backwards</strong></li>
+                    <li>For each location, check if the <code>LastUpdated</code> timestamp has gone <strong>backwards</strong></li>
                     <li>If current timestamp &lt; previous timestamp → <strong>Rollback detected</strong></li>
                 </ol>
 
                 <h3>Example Scenario</h3>
                 <div class="example-box">
-                    <p><strong>10:00</strong> - NSOH shows StatusStart: 09:55 (normal, 5 min lag from source)</p>
-                    <p><strong>10:05</strong> - NSOH shows StatusStart: 10:00 (normal, still 5 min lag)</p>
-                    <p><strong>10:10</strong> - NSOH shows StatusStart: 09:55 (ROLLBACK! went backwards)</p>
+                    <p><strong>10:00</strong> - NSOH shows LastUpdated: 09:55 (normal, 5 min lag from source)</p>
+                    <p><strong>10:05</strong> - NSOH shows LastUpdated: 10:00 (normal, still 5 min lag)</p>
+                    <p><strong>10:10</strong> - NSOH shows LastUpdated: 09:55 (ROLLBACK! went backwards)</p>
                 </div>
 
                 <h3>Rollback Types</h3>
