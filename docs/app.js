@@ -1,4 +1,54 @@
-const BASE_URL = '../data';
+// Detect repo info from GitHub Pages URL
+function getRepoInfo() {
+    const hostname = window.location.hostname;
+
+    // GitHub Pages: {username}.github.io/{repo}
+    if (hostname.endsWith('.github.io') && !hostname.endsWith('.pages.github.io')) {
+        const username = hostname.replace('.github.io', '');
+        const repo = window.location.pathname.split('/')[1] || 'nsoh-api-rollback-tracker';
+        return { username, repo };
+    }
+
+    // Private GitHub Pages (enterprise): check body data attribute
+    const repoConfig = document.body.dataset.repo;
+    if (repoConfig) {
+        const [username, repo] = repoConfig.split('/');
+        return { username, repo };
+    }
+
+    return null;
+}
+
+function getDataBaseUrl() {
+    const hostname = window.location.hostname;
+
+    // Local development
+    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+        return '../data';
+    }
+
+    const repoInfo = getRepoInfo();
+    if (repoInfo) {
+        return `https://raw.githubusercontent.com/${repoInfo.username}/${repoInfo.repo}/main/data`;
+    }
+
+    // Default fallback
+    return '../data';
+}
+
+function updateGitHubLink() {
+    const link = document.getElementById('github-link');
+    if (!link) return;
+
+    const repoInfo = getRepoInfo();
+    if (repoInfo) {
+        link.href = `https://github.com/${repoInfo.username}/${repoInfo.repo}`;
+    } else {
+        link.style.display = 'none';
+    }
+}
+
+const BASE_URL = getDataBaseUrl();
 
 async function fetchJSON(path) {
     try {
@@ -128,6 +178,8 @@ function updateSummary(rollbacks, latest) {
 }
 
 async function init() {
+    updateGitHubLink();
+
     const [latest, rollbacks] = await Promise.all([
         loadLatestComparison(),
         loadRollbackLog()
