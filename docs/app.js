@@ -120,6 +120,80 @@ async function loadLatestComparison() {
     return data;
 }
 
+function formatUnixMs(ms) {
+    if (!ms) return '-';
+    const date = new Date(ms);
+    return date.toLocaleString('en-GB', {
+        day: '2-digit',
+        month: 'short',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit'
+    });
+}
+
+function formatTimeDiff(beforeMs, afterMs) {
+    if (!beforeMs || !afterMs) return '-';
+    const diffMs = beforeMs - afterMs; // positive = rolled back
+    const diffMins = Math.round(diffMs / 60000);
+    if (diffMins >= 60) {
+        const hours = Math.floor(diffMins / 60);
+        const mins = diffMins % 60;
+        return `${hours}h ${mins}m`;
+    }
+    return `${diffMins}m`;
+}
+
+function renderRollbackTable(event) {
+    if (!event.rollback_events || event.rollback_events.length === 0) {
+        return '<p class="no-data">No detailed event data available.</p>';
+    }
+
+    // Limit display to first 50 rows, with option to expand
+    const maxInitialRows = 50;
+    const events = event.rollback_events;
+    const showAll = events.length <= maxInitialRows;
+    const displayEvents = showAll ? events : events.slice(0, maxInitialRows);
+
+    let html = `
+        <div class="table-container">
+            <table class="rollback-table">
+                <thead>
+                    <tr>
+                        <th>Location ID</th>
+                        <th>Previous StatusStart</th>
+                        <th>Current StatusStart</th>
+                        <th>Rolled Back By</th>
+                        <th>Thames Water Value</th>
+                        <th>Status Changed?</th>
+                    </tr>
+                </thead>
+                <tbody>
+    `;
+
+    for (const e of displayEvents) {
+        const rolledBackBy = formatTimeDiff(e.previous_status_start, e.current_status_start);
+        html += `
+            <tr>
+                <td class="location-id">${e.location_id}</td>
+                <td>${formatUnixMs(e.previous_status_start)}</td>
+                <td>${formatUnixMs(e.current_status_start)}</td>
+                <td class="rollback-amount">${rolledBackBy}</td>
+                <td>${formatUnixMs(e.thames_status_start)}</td>
+                <td>${e.status_changed ? '<span class="status-yes">Yes</span>' : '<span class="status-no">No</span>'}</td>
+            </tr>
+        `;
+    }
+
+    html += '</tbody></table></div>';
+
+    if (!showAll) {
+        html += `<p class="table-note">Showing ${maxInitialRows} of ${events.length} affected locations.</p>`;
+    }
+
+    return html;
+}
+
 async function loadRollbackLog() {
     const container = document.getElementById('rollback-list');
     const data = await fetchJSON('rollbacks/rollback_log.json');
@@ -134,22 +208,39 @@ async function loadRollbackLog() {
         new Date(b.timestamp) - new Date(a.timestamp)
     );
 
-    container.innerHTML = sorted.map(event => {
+    container.innerHTML = sorted.map((event, index) => {
         const badgeClass = event.is_dataset_level ? 'badge-dataset' : 'badge-row';
         const badgeText = event.is_dataset_level ? 'Dataset' : 'Row';
+        const isExpanded = index === 0; // Expand most recent by default
 
         return `
             <div class="rollback-event">
-                <div class="rollback-header">
-                    <span class="rollback-time">${formatTimestamp(event.timestamp)}</span>
-                    <span class="rollback-badge ${badgeClass}">${badgeText}</span>
+                <div class="rollback-header" onclick="this.parentElement.classList.toggle('expanded')">
+                    <div class="rollback-header-left">
+                        <span class="expand-icon">${isExpanded ? '▼' : '▶'}</span>
+                        <span class="rollback-time">${formatTimestamp(event.timestamp)}</span>
+                        <span class="rollback-badge ${badgeClass}">${badgeText}</span>
+                    </div>
+                    <div class="rollback-stats">
+                        ${event.rollbacks_detected}/${event.total_locations} locations (${event.rollback_percentage}%)
+                    </div>
                 </div>
-                <div class="rollback-stats">
-                    ${event.rollbacks_detected}/${event.total_locations} locations affected (${event.rollback_percentage}%)
+                <div class="rollback-details ${isExpanded ? 'show' : ''}">
+                    ${renderRollbackTable(event)}
                 </div>
             </div>
         `;
     }).join('');
+
+    // Add click handlers for expand/collapse icons
+    document.querySelectorAll('.rollback-event').forEach(el => {
+        el.querySelector('.rollback-header').addEventListener('click', () => {
+            const icon = el.querySelector('.expand-icon');
+            const details = el.querySelector('.rollback-details');
+            const isNowExpanded = details.classList.toggle('show');
+            icon.textContent = isNowExpanded ? '▼' : '▶';
+        });
+    });
 
     return sorted;
 }
