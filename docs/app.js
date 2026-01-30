@@ -161,8 +161,8 @@ function renderRollbackTable(event) {
                 <thead>
                     <tr>
                         <th>Location ID</th>
-                        <th>Previous StatusStart</th>
-                        <th>Current StatusStart</th>
+                        <th>Previous LastUpdated</th>
+                        <th>Current LastUpdated</th>
                         <th>Rolled Back By</th>
                         <th>Thames Water Value</th>
                         <th>Status Changed?</th>
@@ -172,12 +172,12 @@ function renderRollbackTable(event) {
     `;
 
     for (const e of displayEvents) {
-        const rolledBackBy = formatTimeDiff(e.previous_status_start, e.current_status_start);
+        const rolledBackBy = formatTimeDiff(e.previous_last_updated, e.current_last_updated);
         html += `
             <tr>
                 <td class="location-id">${e.location_id}</td>
-                <td>${formatUnixMs(e.previous_status_start)}</td>
-                <td>${formatUnixMs(e.current_status_start)}</td>
+                <td>${formatUnixMs(e.previous_last_updated)}</td>
+                <td>${formatUnixMs(e.current_last_updated)}</td>
                 <td class="rollback-amount">${rolledBackBy}</td>
                 <td>${formatUnixMs(e.thames_status_start)}</td>
                 <td>${e.status_changed ? '<span class="status-yes">Yes</span>' : '<span class="status-no">No</span>'}</td>

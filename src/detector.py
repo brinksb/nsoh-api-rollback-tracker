@@ -14,8 +14,8 @@ def detect_record_rollback(
 ) -> Optional[RollbackEvent]:
     """Detect if a single record has rolled back.
 
-    A rollback occurs when the current NSOH timestamp is OLDER than
-    the previous NSOH timestamp we captured.
+    A rollback occurs when the current NSOH LastUpdated timestamp is OLDER than
+    the previous NSOH LastUpdated timestamp we captured.
 
     Args:
         previous: Previous NSOH record.
@@ -26,22 +26,17 @@ def detect_record_rollback(
     Returns:
         RollbackEvent if rollback detected, None otherwise.
     """
-    # Compare StatusStart timestamps
-    prev_status_start = previous.status_start
-    curr_status_start = current.status_start
-
-    # Compare LastUpdated as fallback
+    # Primary detection: LastUpdated going backwards
     prev_last_updated = previous.last_updated
     curr_last_updated = current.last_updated
 
+    # Secondary: StatusStart (for reference)
+    prev_status_start = previous.status_start
+    curr_status_start = current.status_start
+
     rollback_detected = False
 
-    # Check if StatusStart went backwards
-    if prev_status_start is not None and curr_status_start is not None:
-        if curr_status_start < prev_status_start:
-            rollback_detected = True
-
-    # Also check LastUpdated going backwards
+    # Check if LastUpdated went backwards (primary indicator)
     if prev_last_updated is not None and curr_last_updated is not None:
         if curr_last_updated < prev_last_updated:
             rollback_detected = True
