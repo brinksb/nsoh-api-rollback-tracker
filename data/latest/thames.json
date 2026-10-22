@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T09:40:24.788079+00:00",
+  "timestamp": "2026-10-22T14:40:55.502880+00:00",
   "source": "thames",
   "records": [
     {
@@ -167,10 +167,10 @@
     {
       "location_id": "TWL00014",
       "status": 0,
-      "status_start": 1792646100000,
-      "latest_event_start": 1792585800000,
-      "latest_event_end": 1792646100000,
-      "last_updated": 1792646100000,
+      "status_start": 1792674000000,
+      "latest_event_start": 1792661400000,
+      "latest_event_end": 1792674000000,
+      "last_updated": 1792674000000,
       "source": "thames"
     },
     {
@@ -625,11 +625,11 @@
     },
     {
       "location_id": "TWL00810",
-      "status": -1,
-      "status_start": 1792658760000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658760000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1782185880000,
+      "latest_event_end": 1782218160000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -787,11 +787,11 @@
     },
     {
       "location_id": "TWL00072",
-      "status": -1,
-      "status_start": 1791126000000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1791126000000,
+      "status": 0,
+      "status_start": 1792663200000,
+      "latest_event_start": 1771175700000,
+      "latest_event_end": 1771179300000,
+      "last_updated": 1792663200000,
       "source": "thames"
     },
     {
@@ -1147,11 +1147,11 @@
     },
     {
       "location_id": "TWL00098",
-      "status": 1,
-      "status_start": 1792650600000,
+      "status": 0,
+      "status_start": 1792665000000,
       "latest_event_start": 1792650600000,
-      "latest_event_end": null,
-      "last_updated": 1792650600000,
+      "latest_event_end": 1792665000000,
+      "last_updated": 1792665000000,
       "source": "thames"
     },
     {
@@ -1345,11 +1345,11 @@
     },
     {
       "location_id": "TWL00119",
-      "status": 1,
-      "status_start": 1792502100000,
-      "latest_event_start": 1792502100000,
+      "status": -1,
+      "status_start": 1792633500000,
+      "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1792502100000,
+      "last_updated": 1792633500000,
       "source": "thames"
     },
     {
@@ -1525,11 +1525,11 @@
     },
     {
       "location_id": "TWL00154",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1767754920000,
+      "latest_event_end": 1767755160000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -1984,11 +1984,11 @@
     },
     {
       "location_id": "TWL00185",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1756631400000,
+      "latest_event_end": 1756643280000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -2029,20 +2029,20 @@
     },
     {
       "location_id": "TWL00032",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1782289200000,
+      "latest_event_end": 1782289920000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
       "location_id": "TWL00192",
-      "status": -1,
-      "status_start": 1792659000000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792659000000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1782188400000,
+      "latest_event_end": 1782196080000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -2165,10 +2165,10 @@
     {
       "location_id": "TWL00590",
       "status": 1,
-      "status_start": 1792650360000,
-      "latest_event_start": 1792650360000,
+      "status_start": 1792678440000,
+      "latest_event_start": 1792678440000,
       "latest_event_end": null,
-      "last_updated": 1792650360000,
+      "last_updated": 1792678440000,
       "source": "thames"
     },
     {
@@ -2318,10 +2318,10 @@
     {
       "location_id": "TWL00130",
       "status": -1,
-      "status_start": 1792466100000,
+      "status_start": 1792465200000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1792466100000,
+      "last_updated": 1792465200000,
       "source": "thames"
     },
     {
@@ -2389,11 +2389,11 @@
     },
     {
       "location_id": "TWL00220",
-      "status": -1,
-      "status_start": 1792659000000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792659000000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1792414560000,
+      "latest_event_end": 1792414800000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -3082,11 +3082,11 @@
     },
     {
       "location_id": "TWL00116",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1747224840000,
+      "latest_event_end": 1747230720000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -3361,11 +3361,11 @@
     },
     {
       "location_id": "TWL00726",
-      "status": 1,
-      "status_start": 1792654200000,
-      "latest_event_start": 1792654200000,
-      "latest_event_end": null,
-      "last_updated": 1792654200000,
+      "status": 0,
+      "status_start": 1792675800000,
+      "latest_event_start": 1792673100000,
+      "latest_event_end": 1792675800000,
+      "last_updated": 1792675800000,
       "source": "thames"
     },
     {
@@ -3478,11 +3478,11 @@
     },
     {
       "location_id": "TWL00658",
-      "status": -1,
-      "status_start": 1792659000000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792659000000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1782184920000,
+      "latest_event_end": 1782206280000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -3793,11 +3793,11 @@
     },
     {
       "location_id": "TWL00338",
-      "status": -1,
-      "status_start": 1792659120000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792659120000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1752931320000,
+      "latest_event_end": 1752982920000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -3820,11 +3820,11 @@
     },
     {
       "location_id": "TWL00371",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1752927600000,
+      "latest_event_end": 1752938160000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -4577,10 +4577,10 @@
     {
       "location_id": "TWL00408",
       "status": 0,
-      "status_start": 1792558800000,
-      "latest_event_start": 1792557000000,
-      "latest_event_end": 1792558800000,
-      "last_updated": 1792558800000,
+      "status_start": 1792669500000,
+      "latest_event_start": 1792667700000,
+      "latest_event_end": 1792669500000,
+      "last_updated": 1792669500000,
       "source": "thames"
     },
     {
@@ -4711,11 +4711,11 @@
     },
     {
       "location_id": "TWL00809",
-      "status": -1,
-      "status_start": 1792659120000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792659120000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1782185160000,
+      "latest_event_end": 1782191040000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
@@ -4873,11 +4873,11 @@
     },
     {
       "location_id": "TWL00438",
-      "status": -1,
-      "status_start": 1792658880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1792658880000,
+      "status": 0,
+      "status_start": 1792670880000,
+      "latest_event_start": 1784550120000,
+      "latest_event_end": 1784550480000,
+      "last_updated": 1792670880000,
       "source": "thames"
     },
     {
