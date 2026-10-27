@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T15:55:55.000051+00:00",
+  "timestamp": "2026-10-27T20:29:48.342481+00:00",
   "source": "thames",
   "records": [
     {
@@ -625,11 +625,11 @@
     },
     {
       "location_id": "TWL00810",
-      "status": -1,
-      "status_start": 1793105880000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1793105880000,
+      "status": 0,
+      "status_start": 1793118000000,
+      "latest_event_start": 1792870800000,
+      "latest_event_end": 1792897920000,
+      "last_updated": 1793118000000,
       "source": "thames"
     },
     {
@@ -1408,11 +1408,11 @@
     },
     {
       "location_id": "TWL00146",
-      "status": 0,
-      "status_start": 1772411400000,
-      "latest_event_start": 1772365500000,
-      "latest_event_end": 1772411400000,
-      "last_updated": 1772411400000,
+      "status": -1,
+      "status_start": 1792946700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1792946700000,
       "source": "thames"
     },
     {
@@ -1733,10 +1733,10 @@
     {
       "location_id": "TWL00791",
       "status": 0,
-      "status_start": 1792863960000,
-      "latest_event_start": 1792860720000,
-      "latest_event_end": 1792863960000,
-      "last_updated": 1792863960000,
+      "status_start": 1793119560000,
+      "latest_event_start": 1793119320000,
+      "latest_event_end": 1793119560000,
+      "last_updated": 1793119560000,
       "source": "thames"
     },
     {
@@ -1805,10 +1805,10 @@
     {
       "location_id": "TWL00171",
       "status": -1,
-      "status_start": 1792905300000,
+      "status_start": 1792951200000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1792905300000,
+      "last_updated": 1792951200000,
       "source": "thames"
     },
     {
@@ -2353,11 +2353,11 @@
     },
     {
       "location_id": "TWL00217",
-      "status": 1,
-      "status_start": 1793083500000,
+      "status": 0,
+      "status_start": 1793127600000,
       "latest_event_start": 1793083500000,
-      "latest_event_end": null,
-      "last_updated": 1793083500000,
+      "latest_event_end": 1793127600000,
+      "last_updated": 1793127600000,
       "source": "thames"
     },
     {
@@ -2533,11 +2533,11 @@
     },
     {
       "location_id": "TWL00233",
-      "status": 1,
-      "status_start": 1793083500000,
+      "status": 0,
+      "status_start": 1793115900000,
       "latest_event_start": 1793083500000,
-      "latest_event_end": null,
-      "last_updated": 1793083500000,
+      "latest_event_end": 1793115900000,
+      "last_updated": 1793115900000,
       "source": "thames"
     },
     {
@@ -2668,11 +2668,11 @@
     },
     {
       "location_id": "TWL00245",
-      "status": -1,
-      "status_start": 1648771200000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1648771200000,
+      "status": 0,
+      "status_start": 1793116440000,
+      "latest_event_start": 1793015280000,
+      "latest_event_end": 1793015520000,
+      "last_updated": 1793116440000,
       "source": "thames"
     },
     {
@@ -3586,11 +3586,11 @@
     },
     {
       "location_id": "TWL00672",
-      "status": -1,
-      "status_start": 1762848120000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1762848120000,
+      "status": 0,
+      "status_start": 1793116440000,
+      "latest_event_start": 1793016360000,
+      "latest_event_end": 1793016840000,
+      "last_updated": 1793116440000,
       "source": "thames"
     },
     {
@@ -3847,11 +3847,11 @@
     },
     {
       "location_id": "TWL00695",
-      "status": 0,
-      "status_start": 1793091600000,
-      "latest_event_start": 1793088000000,
-      "latest_event_end": 1793091600000,
-      "last_updated": 1793091600000,
+      "status": 1,
+      "status_start": 1793130300000,
+      "latest_event_start": 1793130300000,
+      "latest_event_end": null,
+      "last_updated": 1793130300000,
       "source": "thames"
     },
     {
