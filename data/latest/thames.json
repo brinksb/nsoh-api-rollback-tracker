@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T13:36:23.404471+00:00",
+  "timestamp": "2026-11-07T18:17:03.496993+00:00",
   "source": "thames",
   "records": [
     {
@@ -2461,11 +2461,11 @@
     },
     {
       "location_id": "TWL00226",
-      "status": 0,
-      "status_start": 1791448200000,
-      "latest_event_start": 1782151200000,
-      "latest_event_end": 1782153900000,
-      "last_updated": 1791448200000,
+      "status": -1,
+      "status_start": 1793885400000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1793885400000,
       "source": "thames"
     },
     {
