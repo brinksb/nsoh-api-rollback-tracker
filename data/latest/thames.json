@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T09:41:33.372725+00:00",
+  "timestamp": "2026-11-09T20:09:05.040733+00:00",
   "source": "thames",
   "records": [
     {
@@ -1535,10 +1535,10 @@
     {
       "location_id": "TWL00155",
       "status": 0,
-      "status_start": 1792143960000,
-      "latest_event_start": 1792143720000,
-      "latest_event_end": 1792143960000,
-      "last_updated": 1792143960000,
+      "status_start": 1794233880000,
+      "latest_event_start": 1794233400000,
+      "latest_event_end": 1794233880000,
+      "last_updated": 1794233880000,
       "source": "thames"
     },
     {
@@ -1904,10 +1904,10 @@
     {
       "location_id": "TWL00180",
       "status": -1,
-      "status_start": 1792344600000,
+      "status_start": 1794224700000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1792344600000,
+      "last_updated": 1794224700000,
       "source": "thames"
     },
     {
@@ -2462,10 +2462,10 @@
     {
       "location_id": "TWL00226",
       "status": -1,
-      "status_start": 1793885400000,
+      "status_start": 1793883600000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1793885400000,
+      "last_updated": 1793883600000,
       "source": "thames"
     },
     {
@@ -3092,10 +3092,10 @@
     {
       "location_id": "TWL00421",
       "status": -1,
-      "status_start": 1793498040000,
+      "status_start": 1793494800000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1793498040000,
+      "last_updated": 1793494800000,
       "source": "thames"
     },
     {
@@ -4198,11 +4198,11 @@
     },
     {
       "location_id": "TWL00380",
-      "status": 0,
-      "status_start": 1792854900000,
-      "latest_event_start": 1792853100000,
-      "latest_event_end": 1792854900000,
-      "last_updated": 1792854900000,
+      "status": -1,
+      "status_start": 1794080700000,
+      "latest_event_start": null,
+      "latest_event_end": null,
+      "last_updated": 1794080700000,
       "source": "thames"
     },
     {
