@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T02:43:50.697626+00:00",
+  "timestamp": "2026-11-10T10:29:16.900340+00:00",
   "source": "thames",
   "records": [
     {
@@ -3056,10 +3056,10 @@
     {
       "location_id": "TWL00638",
       "status": 0,
-      "status_start": 1793979900000,
+      "status_start": 1794266100000,
       "latest_event_start": 1771610400000,
       "latest_event_end": 1771613100000,
-      "last_updated": 1793979900000,
+      "last_updated": 1794266100000,
       "source": "thames"
     },
     {
@@ -3577,11 +3577,11 @@
     },
     {
       "location_id": "TWL00318",
-      "status": -1,
-      "status_start": 1793939400000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1793939400000,
+      "status": 0,
+      "status_start": 1792744200000,
+      "latest_event_start": 1792738800000,
+      "latest_event_end": 1792744200000,
+      "last_updated": 1792744200000,
       "source": "thames"
     },
     {
@@ -3829,11 +3829,11 @@
     },
     {
       "location_id": "TWL00341",
-      "status": -1,
-      "status_start": 1793953320000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1793953320000,
+      "status": 0,
+      "status_start": 1793886600000,
+      "latest_event_start": 1759273800000,
+      "latest_event_end": 1759274160000,
+      "last_updated": 1793886600000,
       "source": "thames"
     },
     {
@@ -4198,11 +4198,11 @@
     },
     {
       "location_id": "TWL00380",
-      "status": -1,
-      "status_start": 1794080700000,
-      "latest_event_start": null,
-      "latest_event_end": null,
-      "last_updated": 1794080700000,
+      "status": 0,
+      "status_start": 1792854900000,
+      "latest_event_start": 1792853100000,
+      "latest_event_end": 1792854900000,
+      "last_updated": 1792854900000,
       "source": "thames"
     },
     {
@@ -4495,11 +4495,11 @@
     },
     {
       "location_id": "TWL00398",
-      "status": 0,
-      "status_start": 1793263500000,
+      "status": -1,
+      "status_start": 1794105000000,
       "latest_event_start": null,
       "latest_event_end": null,
-      "last_updated": 1793263500000,
+      "last_updated": 1794105000000,
       "source": "thames"
     },
     {
