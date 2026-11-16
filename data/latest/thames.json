@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T23:43:28.203349+00:00",
+  "timestamp": "2026-11-16T03:13:48.367189+00:00",
   "source": "thames",
   "records": [
     {
@@ -535,11 +535,11 @@
     },
     {
       "location_id": "TWL00049",
-      "status": 1,
-      "status_start": 1794772800000,
+      "status": 0,
+      "status_start": 1794792600000,
       "latest_event_start": 1794772800000,
-      "latest_event_end": null,
-      "last_updated": 1794772800000,
+      "latest_event_end": 1794792600000,
+      "last_updated": 1794792600000,
       "source": "thames"
     },
     {
@@ -832,11 +832,11 @@
     },
     {
       "location_id": "TWL00805",
-      "status": 1,
-      "status_start": 1794779100000,
+      "status": 0,
+      "status_start": 1794786300000,
       "latest_event_start": 1794779100000,
-      "latest_event_end": null,
-      "last_updated": 1794779100000,
+      "latest_event_end": 1794786300000,
+      "last_updated": 1794786300000,
       "source": "thames"
     },
     {
@@ -2452,11 +2452,11 @@
     },
     {
       "location_id": "TWL00227",
-      "status": 1,
-      "status_start": 1794765600000,
+      "status": 0,
+      "status_start": 1794788100000,
       "latest_event_start": 1794765600000,
-      "latest_event_end": null,
-      "last_updated": 1794765600000,
+      "latest_event_end": 1794788100000,
+      "last_updated": 1794788100000,
       "source": "thames"
     },
     {
@@ -3325,11 +3325,11 @@
     },
     {
       "location_id": "TWL00303",
-      "status": 1,
-      "status_start": 1794779100000,
+      "status": 0,
+      "status_start": 1794783600000,
       "latest_event_start": 1794779100000,
-      "latest_event_end": null,
-      "last_updated": 1794779100000,
+      "latest_event_end": 1794783600000,
+      "last_updated": 1794783600000,
       "source": "thames"
     },
     {
@@ -3361,11 +3361,11 @@
     },
     {
       "location_id": "TWL00726",
-      "status": 1,
-      "status_start": 1794778200000,
+      "status": 0,
+      "status_start": 1794783600000,
       "latest_event_start": 1794778200000,
-      "latest_event_end": null,
-      "last_updated": 1794778200000,
+      "latest_event_end": 1794783600000,
+      "last_updated": 1794783600000,
       "source": "thames"
     },
     {
@@ -4351,11 +4351,11 @@
     },
     {
       "location_id": "TWL00391",
-      "status": 1,
-      "status_start": 1794768300000,
+      "status": 0,
+      "status_start": 1794790800000,
       "latest_event_start": 1794768300000,
-      "latest_event_end": null,
-      "last_updated": 1794768300000,
+      "latest_event_end": 1794790800000,
+      "last_updated": 1794790800000,
       "source": "thames"
     },
     {
