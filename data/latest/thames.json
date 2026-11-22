@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-22T11:48:00.881303+00:00",
+  "timestamp": "2026-11-22T18:41:34.420595+00:00",
   "source": "thames",
   "records": [
     {
@@ -2821,11 +2821,11 @@
     },
     {
       "location_id": "TWL00257",
-      "status": 1,
-      "status_start": 1795338000000,
+      "status": 0,
+      "status_start": 1795367700000,
       "latest_event_start": 1795338000000,
-      "latest_event_end": null,
-      "last_updated": 1795338000000,
+      "latest_event_end": 1795367700000,
+      "last_updated": 1795367700000,
       "source": "thames"
     },
     {
@@ -3848,10 +3848,10 @@
     {
       "location_id": "TWL00695",
       "status": 0,
-      "status_start": 1795059900000,
-      "latest_event_start": 1795043700000,
-      "latest_event_end": 1795059900000,
-      "last_updated": 1795059900000,
+      "status_start": 1795358700000,
+      "latest_event_start": 1795356900000,
+      "latest_event_end": 1795358700000,
+      "last_updated": 1795358700000,
       "source": "thames"
     },
     {
